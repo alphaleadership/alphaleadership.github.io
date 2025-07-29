@@ -567,5 +567,26 @@
       "Vous êtes vraiment matrixés mon pauvre. Je vous conseil de retourner en Inde et d'y rester longtemps pour en apprendre davantage avec les locuteurs de cette langue"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399811737636569089",
+    "timestamp": 1753811525497,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "je ne suis jamais allé en Inde \n#contre-uno #je_ne_peux_pas_y_retourner\nparler d'originalité quand toutes vos affiches sont pareils..."
+    ],
+    "attachments": []
   }
 ]
