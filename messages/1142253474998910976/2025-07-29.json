@@ -74,5 +74,24 @@
     },
     "content": "J'ai pas compris, c'est quoi le bot et c'est quoi le serveur infiltré ?",
     "attachments": []
+  },
+  {
+    "id": "1399769889144569949",
+    "timestamp": 1753801548039,
+    "author": {
+      "id": "1212431738219925568",
+      "username": "jiv_28",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1142253474998910976",
+      "name": "「💬」discussion-ssre"
+    },
+    "guild": {
+      "id": "1101569746333351986",
+      "name": "Katzetœ | Service secret listenbourgeois"
+    },
+    "content": "Il me semble que c’est un bot de raid",
+    "attachments": []
   }
 ]
