@@ -43,5 +43,24 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399764877177786439",
+    "timestamp": 1753800353093,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Rendez vous dans les prochaines heures pour nos 3 grands meetings.\n\n#DesChoixDirects\n#PourDesVoixDéterminantes\n#PourUneMajoritéClaire",
+    "attachments": []
   }
 ]
