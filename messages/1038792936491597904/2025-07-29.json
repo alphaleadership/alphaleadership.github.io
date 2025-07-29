@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1399747349684944899",
+    "timestamp": 1753796174213,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "** Affiche de campagne de Benoît Delorme , sortit avant son grand meeting de Lurenberg **",
+    "attachments": [
+      {
+        "id": "1399747349349273753",
+        "name": "5482835F-4D00-4405-B89A-B39C1D259333.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399747349349273753/5482835F-4D00-4405-B89A-B39C1D259333.png?ex=688a1fce&is=6888ce4e&hm=26278fbbad8e917b09b7dd04a3f2c32a836fefd1cbb39ce3275cacea4ea53a1f&",
+        "contentType": "image/jpeg"
+      }
+    ]
+  }
+]
