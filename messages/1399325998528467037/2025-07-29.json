@@ -55,5 +55,24 @@
     },
     "content": "https://discord.com/channels/1037794097894797442/1038792936491597904/1399750592238321845",
     "attachments": []
+  },
+  {
+    "id": "1399754387731124275",
+    "timestamp": 1753797852214,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399325998528467037",
+      "name": "Campagne PLDL"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "**Affiches de campagne sur les principaux thèmes abordées**",
+    "attachments": []
   }
 ]
