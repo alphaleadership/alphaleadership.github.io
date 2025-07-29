@@ -74,5 +74,24 @@
     },
     "content": "La première actualité, une actualité moins importante que les autres, c'est l'apparition d'une nouvelle tête de proue au sein de société humaine, Johann Schneider qu'on a vu particulièrement actif durant la campagne de ces législatives, et qui pourrait bien s'imposer comme une des nouvelles figures importantes du parti !",
     "attachments": []
+  },
+  {
+    "id": "1399764636072546515",
+    "timestamp": 1753800295609,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Oui effectivement, on la beaucoup vu à l'oeuvre pour société volontaire, la nouvelle alliance entre société humaine et le front volontariste du localisme, et il faudrait peut être parler du paysage politique national !",
+    "attachments": []
   }
 ]
