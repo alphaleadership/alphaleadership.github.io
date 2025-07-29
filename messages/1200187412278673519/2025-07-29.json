@@ -637,5 +637,26 @@
       "Une fois j'ai mangé chez vous. Intoxication alimentaire. 🤢 Rendez-moi mon argent."
     ],
     "attachments": []
+  },
+  {
+    "id": "1399815109592748134",
+    "timestamp": 1753812329434,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Oui en effet, notre menu politique est bon pour le pays, mais est un poison pour les idées irresponsables, et utopiques mettant en péril le pays, et ces idées vous les représenter, donc c'est tout à fait normal ce qui vous arrive. Pas de remboursement, juste un effet positif."
+    ],
+    "attachments": []
   }
 ]
