@@ -1786,5 +1786,26 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399799616999915702",
+    "timestamp": 1753808635712,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "**Acte I — Reprendre la main**\n\n_Delorme affirme que le Listenbourg doit sortir d’une décennie de soumission réglementaire, de compromis subis et de recul national. Il annonce une réforme constitutionnelle : droit de veto populaire sur les textes européens, retour à la primauté du droit national, obligation pour le Parlement listenbourgeois de valider toute directive majeure. Il tonne : _\n\n> « Je ne suis pas contre l’Europe. Mais je suis pour le peuple d’abord. Nous ne serons jamais un bureau administratif de Bruxelles. Le Listenbourg doit redevenir maître chez lui. »\n\n⸻\n\n**Acte II — Sécurité, autorité, respect**\n\n_Le candidat décrit l’insécurité croissante dans certaines villes moyennes, la violence scolaire, la lassitude des policiers. Il promet : retour des commissariats de proximité, expulsion systématique des étrangers violents, sanctions automatiques pour les mineurs récidivistes. Il affirme : _\n\n> « L’ordre n’est pas une option. Il est la condition du respect, de la liberté, de la paix. Une République faible, c’est une République bafouée. »\n\n⸻\n\n** Acte III — Redonner un avenir au travail **\n\n_Delorme évoque les petites industries, les agriculteurs, les jeunes diplômés contraints à l’exil. Il propose : baisse des charges, protection de la production nationale, préférence locale dans les marchés publics. Un plan pour relancer l’apprentissage et les métiers manuels est annoncé :_\n\n> « Produire ici, embaucher ici, transmettre ici. Voilà ce que veut notre peuple. Voilà ce que j’imposerai. L’économie listenbourgeoise ne peut pas être livrée aux marchés sans visage. »"
+    ],
+    "attachments": []
   }
 ]
