@@ -749,5 +749,31 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399774722295726222",
+    "timestamp": 1753802700352,
+    "author": {
+      "id": "1079395149957832826",
+      "username": "basoules",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "**Avec et Pour les Outres-Mers, votez Société Volontaire**",
+    "attachments": [
+      {
+        "id": "1399774722224292013",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399774722224292013/image.png?ex=688a394c&is=6888e7cc&hm=c58bd6594998c69061565ed47707ddfec2fac767b8b472de3ae27b2fcedf4ff9&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
