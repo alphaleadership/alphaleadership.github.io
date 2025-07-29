@@ -284,5 +284,31 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399753147722760212",
+    "timestamp": 1753797556573,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "** Affiche de Benoît Delorme candidat PLDL sur la santé ⚕️**",
+    "attachments": [
+      {
+        "id": "1399753147324305448",
+        "name": "7BCF2B38-F75A-48D1-888F-46F729D164CE.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399753147324305448/7BCF2B38-F75A-48D1-888F-46F729D164CE.png?ex=688a2534&is=6888d3b4&hm=bd8d8a0982f74594d0a1f7fcc1e44ee46fc54b6cce33b4b04cc3db5e566d5e04&",
+        "contentType": "image/jpeg"
+      }
+    ]
   }
 ]
