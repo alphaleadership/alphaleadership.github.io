@@ -258,5 +258,31 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399752782839418950",
+    "timestamp": 1753797469578,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "**Affiche de campagne sur la République selon le Parti Libéral**",
+    "attachments": [
+      {
+        "id": "1399752782268858368",
+        "name": "Sans_titre_25-min.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399752782268858368/Sans_titre_25-min.png?ex=688a24dd&is=6888d35d&hm=fc46047bec6dd1f0ffd8e6369678c13df49cb0ad286e869d6e03fc3106b8e80f&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
