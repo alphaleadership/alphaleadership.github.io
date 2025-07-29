@@ -188,5 +188,24 @@
     },
     "content": "C'est tout le contraire de l'aile populiste de la politique nationale qui navigue sans bruit dans ces législatives depuis les péripéties d'Emmet Assol, leader du FLN.",
     "attachments": []
+  },
+  {
+    "id": "1399765724972453959",
+    "timestamp": 1753800555223,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "On peut se demander si le PPL et le FLN seront aussi important dans ces élections qu'ils ne l'étaient quelques semaines plus tôt !",
+    "attachments": []
   }
 ]
