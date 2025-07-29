@@ -504,5 +504,26 @@
       "Monsieur AuRéLIeN utilise maintenant la technique que j'observais quand j'étais professeur en maternelle, à savoir : c'est celui qui dit qui l'est.\nAlalalala, vous êtes pitoyable mon bon Aurélien bon sang ! Pitoyable !"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399808915931140137",
+    "timestamp": 1753810852750,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Vous êtes un singe à qui on a fait apprendre des mots compliqués, c'est en un sens remarquable, mais pas autant que les écrits sanskrits."
+    ],
+    "attachments": []
   }
 ]
