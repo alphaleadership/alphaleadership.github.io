@@ -74,5 +74,24 @@
     },
     "content": "Affiches Votez Sh Pour : https://discord.com/channels/1037794097894797442/1038792936491597904/1399768710645813278",
     "attachments": []
+  },
+  {
+    "id": "1399772708455321690",
+    "timestamp": 1753802220215,
+    "author": {
+      "id": "1079395149957832826",
+      "username": "basoules",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399325720412553266",
+      "name": "Campagne SV"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Affiche Une Solution : https://discord.com/channels/1037794097894797442/1038792936491597904/1399772563655364659",
+    "attachments": []
   }
 ]
