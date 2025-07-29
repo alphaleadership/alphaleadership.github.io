@@ -17,5 +17,31 @@
     },
     "content": "# Un programme sincère, humain et tourné vers le meilleur !\n## https://discord.com/channels/1037794097894797442/1038792936491597904/1399757383105773618\n### La Société Volontaire !",
     "attachments": []
+  },
+  {
+    "id": "1399764574714200087",
+    "timestamp": 1753800280980,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "### Je vous retrouve à 18h ! <:societe_humaine__sh:1393957481243213845>",
+    "attachments": [
+      {
+        "id": "1399764574487711855",
+        "name": "Soutenus_par_R._Willinoff.png",
+        "url": "https://cdn.discordapp.com/attachments/1200187412278673519/1399764574487711855/Soutenus_par_R._Willinoff.png?ex=688a2fd8&is=6888de58&hm=2ea4f3bc2aa2c869d6d19b8a55032b8db1eec2aeaf5b315cea6d5e7e0cb34ec8&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
