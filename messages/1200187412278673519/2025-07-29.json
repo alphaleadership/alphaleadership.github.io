@@ -378,5 +378,26 @@
       "Je fais quoi là John\nTu es bête ou quoi toi"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399805200797007952",
+    "timestamp": 1753809966993,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "VOUS MEPRISEZ LES TRAVAILLEURS\n\" DEFENSEURS DU PEUPLES ??????\"\nPLUTÔT MEPRISEURS !!!\nVOUS ETES SATAN, VOUS ETES REPUGNANT, SALE BÊTE !!"
+    ],
+    "attachments": []
   }
 ]
