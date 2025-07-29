@@ -682,5 +682,24 @@
     },
     "content": "*ignore*",
     "attachments": []
+  },
+  {
+    "id": "1399779314119086120",
+    "timestamp": 1753803795128,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Merci beaucoup, ce fut intéressant, d'avoir pu partager mes opinions, et écouter celle des autres, malgré les divergences.\n\nMerci à albinos tv, merci à la régie, merci à la prod, et à vous encore.\n\nEt chers téléspectateurs n'oubliez pas de voter pour le Parti Libéral, nous avons grandement à construire, et à écrire tous ensemble. Je ressens l'idylle arriver dés demain.\n\n*lâche son plus beau et grand sourire et salue de la main*",
+    "attachments": []
   }
 ]
