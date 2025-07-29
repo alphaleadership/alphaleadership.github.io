@@ -1646,5 +1646,26 @@
       "Nous ne répondrons pas avec votre mépris. Nous ne parlons pas au système"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399798293407600841",
+    "timestamp": 1753808320143,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "-# la République <:risitasperruque:1066713649793728613>"
+    ],
+    "attachments": []
   }
 ]
