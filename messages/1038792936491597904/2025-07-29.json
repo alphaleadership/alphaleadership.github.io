@@ -493,5 +493,24 @@
     },
     "content": "J'ajouterai que nous étudierons la possibilité du vote en ligne pour faciliter le vote des personnes fragiles !",
     "attachments": []
+  },
+  {
+    "id": "1399758058460151870",
+    "timestamp": 1753798727384,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "C'est dans les textes en sanskrit qu'on nous dit de penser à son prochain et de s'aimer les uns les autres !",
+    "attachments": []
   }
 ]
