@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1399769814460792983",
+    "timestamp": 1753801530233,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1160567313171488937",
+      "name": "「📺」5-𝐋𝐞-𝐐𝐮𝐨𝐭𝐢𝐝𝐢𝐞𝐧"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Reportage sur l’émergence du parti libéral démocratique Listenbourgeois très bientot !",
+    "attachments": []
+  }
+]
