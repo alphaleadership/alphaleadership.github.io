@@ -300,5 +300,26 @@
       "Mais le message vocal?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399805023050793143",
+    "timestamp": 1753809924615,
+    "author": {
+      "id": "840985745182425108",
+      "username": "vanguard_arbinger",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1142253474998910976",
+      "name": "「💬」discussion-ssre"
+    },
+    "guild": {
+      "id": "1101569746333351986",
+      "name": "Katzetœ | Service secret listenbourgeois"
+    },
+    "content": [
+      "c'est la meme chose que le texte (j'avais la flemme de tapée sur tel)"
+    ],
+    "attachments": []
   }
 ]
