@@ -1099,5 +1099,24 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399783577826099371",
+    "timestamp": 1753804811675,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "***2500 manifestants sont réunis Avenue des Martyrs à Veroja.***\n***Parmi les manifestants : des personnes de couleur, des femmes voilées, des drapeaux LGBTQQIAA2SAP+, des handicapé.es, des seins à l'air et des hommes.***\n\n*Alexandra Jiménez prend un haut-parleur : *\n\nBonsoir !\nVous me connaissez sûrement, ma tête est sur l'affiche. *la foule rit* Je suis Alexandra, la fondatrice de la Société Humaine et la tête de liste de la Société Volontaire. Mais plus important encore : je suis une **femme**, je suis une **lesbienne**, j'ai des **origines**.\nC'est pour cela que je vous ai appelé, vous peuple de Veroja ! Ce soir, cette marche pacifique des volontaires, accompagnée par les forces de police, est là pour **célebrer nos différences** ! Ensemble, nous prouvons au monde que **nous sommes tous humains** !\n\nQue nous *saignons tous les mois*, que *nos ancêtres aient saigné des siècles*, que *nos cousins souffrent pour leur foi*, que *nos amours soient discriminés*, ou bien même *que nous soyons alliés* : **NOUS SOMMES TOUS HUMAINS** !",
+    "attachments": []
   }
 ]
