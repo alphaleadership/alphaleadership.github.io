@@ -207,5 +207,24 @@
     },
     "content": "https://discord.com/channels/1037794097894797442/1038792936491597904/1399763940803870741\n\n**Affiche Meetings**",
     "attachments": []
+  },
+  {
+    "id": "1399778026136539136",
+    "timestamp": 1753803488049,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399325998528467037",
+      "name": "Campagne PLDL"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "https://discord.com/channels/1037794097894797442/1038792936491597904/1399777920490405972\n\n**Affiche Delorme**",
+    "attachments": []
   }
 ]
