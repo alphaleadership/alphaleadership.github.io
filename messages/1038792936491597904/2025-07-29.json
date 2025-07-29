@@ -206,5 +206,31 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399752065399656553",
+    "timestamp": 1753797298527,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "**Affiche sur l'attractivité**",
+    "attachments": [
+      {
+        "id": "1399752065135411260",
+        "name": "Sans_titre_23.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399752065135411260/Sans_titre_23.png?ex=688a2432&is=6888d2b2&hm=87390d7b3f1b57ee398d853cda5b24b0b1b480679372b89f8d0d5f854eb0db81&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
