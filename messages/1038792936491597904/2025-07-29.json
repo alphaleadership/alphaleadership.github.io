@@ -2232,5 +2232,26 @@
       "Carrément il fait même pas son propre discours 🥱🙄"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399825420781748306",
+    "timestamp": 1753814787813,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "-# si il a fait pour le coup."
+    ],
+    "attachments": []
   }
 ]
