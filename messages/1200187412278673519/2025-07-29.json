@@ -315,5 +315,26 @@
       "Le PPL se moque de toi"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399802913185861792",
+    "timestamp": 1753809421584,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "vous vous moquez de mon travail !\nvous êtes juste méprisant parce que vous ne travaillez pas !\nLA HONTE"
+    ],
+    "attachments": []
   }
 ]
