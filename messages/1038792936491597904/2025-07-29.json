@@ -1555,5 +1555,26 @@
       "Toujours une faute de frappe"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399796590507589864",
+    "timestamp": 1753807914140,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Pour des défenseurs de notre \" culture \" vous semblez ne pas la connaitre 🤣 vous allez vous mettre dehors tout seuls ?"
+    ],
+    "attachments": []
   }
 ]
