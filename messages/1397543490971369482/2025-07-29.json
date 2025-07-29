@@ -245,5 +245,24 @@
     },
     "content": "On a pu entrevoir le programme des forces de gauches et du centre durant cette campagne présidentielle, mais pour brièvement nous éclairer, mesdames et messieurs, je vais laisser ma place à 2 invités de marque : \n<@1070602999329722368> et <@892092107714592839> , bienvenue mesdames !",
     "attachments": []
+  },
+  {
+    "id": "1399766139428405438",
+    "timestamp": 1753800654037,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Bonjour et merci ! Ravie d'avoir été invitée sur le plateau.",
+    "attachments": []
   }
 ]
