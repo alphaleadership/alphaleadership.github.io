@@ -36,5 +36,24 @@
     },
     "content": "Programme : https://discord.com/channels/1037794097894797442/1038792936491597904/1399757383105773618",
     "attachments": []
+  },
+  {
+    "id": "1399764379821539481",
+    "timestamp": 1753800234514,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399325720412553266",
+      "name": "Campagne SV"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Marche Volontaire à Veroja (affiche) : https://discord.com/channels/1037794097894797442/1038792936491597904/1399764155006980109",
+    "attachments": []
   }
 ]
