@@ -102,5 +102,31 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399750889463349368",
+    "timestamp": 1753797018162,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "**Affiche sur les services publics et à propos de l'administration**",
+    "attachments": [
+      {
+        "id": "1399750888842858527",
+        "name": "Sans_titre_19.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399750888842858527/Sans_titre_19.png?ex=688a231a&is=6888d19a&hm=9f3c7b1842abdcbecfbb60326246f6ed0e1ed3a8476dfd3b439297a4ee1a276a&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
