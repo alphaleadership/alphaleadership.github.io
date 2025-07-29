@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1399751847119687750",
+    "timestamp": 1753797246485,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399325720412553266",
+      "name": "Campagne SV"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "y a cette émission aussi https://discord.com/channels/1037794097894797442/1397543490971369482/1398297329009819658",
+    "attachments": []
+  }
+]
