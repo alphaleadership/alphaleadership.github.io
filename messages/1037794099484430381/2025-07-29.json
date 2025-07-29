@@ -112,5 +112,24 @@
     },
     "content": "Votez le Parti Libéral !",
     "attachments": []
+  },
+  {
+    "id": "1399770698146119770",
+    "timestamp": 1753801740920,
+    "author": {
+      "id": "1079395149957832826",
+      "username": "basoules",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430381",
+      "name": "「💬」𝐃𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Bonjour\nVotez Société Volontaire",
+    "attachments": []
   }
 ]
