@@ -775,5 +775,24 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399775795177852992",
+    "timestamp": 1753802956147,
+    "author": {
+      "id": "1036745970077147279",
+      "username": "lemu321",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "## DISCOURS D'AURÉLIEN LISTEN À LURENBERG\n\nPeuple du Listenbourg ! \nUne grande menace est à nos portes.\nLa plus gros menace de notre histoire pénètre notre territoire.\nCette menace a un nom.\nElle s'appelle : le Wokisme.\n**applaudissement**\nMeurtres, vol, viols, violence, agressions, invasion, conversion, i-mi-gra-tion, nous disons NON.\nNON au Wokisme et à sa décadence. \n\nMes amis, cette élection législatives est un plébiscite. Sommes nous POUR ou CONTRE le Listenbourg.\nSommes nous POUR ou CONTRE notre identité ?\n\nLe PPL est POUR ! \nLe PPL est POUR ! \n\nNous menons cette campagne POUR note pays ! \n\nDemain et après demain, ce suffrage aura lieu et nous voterons pour le PPL, POUR LE LISTENBOURG ! \n*applaudissement*",
+    "attachments": []
   }
 ]
