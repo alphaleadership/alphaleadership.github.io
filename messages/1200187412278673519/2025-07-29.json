@@ -233,5 +233,24 @@
     },
     "content": "S'il suffisait d'être allé une fois à Tanvpleuf pour être député, tout serais plus facile.",
     "attachments": []
+  },
+  {
+    "id": "1399782031361310940",
+    "timestamp": 1753804442969,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Vous savez des Tanpleuvf, on en voit partout dans notre territoire, ce n'est pas simplement le nom d'une commune, mais aussi le cadre de vie des grands oubliés, de ceux qui ne sentent plus représenter. Avec nous au gouvernement cela changera !",
+    "attachments": []
   }
 ]
