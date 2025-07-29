@@ -441,5 +441,26 @@
       "nous ne sommes pas au théâtre monsieur, nous ne venons pas faire le spectacle ! Nous sommes là pour nos compatriotes ! Si vous avez le temps pour vous amuser, abandonnez vos ambitions de pouvoir !"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399808480478757177",
+    "timestamp": 1753810748930,
+    "author": {
+      "id": "1036745970077147279",
+      "username": "lemu321",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "AVE MARIA \nTaisez vous ! C'est vous le Diable ! La créature vous habite !"
+    ],
+    "attachments": []
   }
 ]
