@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1399747456803016795",
+    "timestamp": 1753796199752,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399325998528467037",
+      "name": "Campagne PLDL"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "https://discord.com/channels/1037794097894797442/1038792936491597904/1399747349684944899 ** Affiche de campagne de Benoît Delorme avant son meeting dans la capitale **",
+    "attachments": []
+  }
+]
