@@ -169,5 +169,24 @@
     },
     "content": "Oui effectivement, on a vu le parti libéral démocrate listenbourgeois particulièrement actif durant cette campagne, mené par Carmélia Reuland nottament, donné très haut dans les sondages, le PLD semble promis à un bel avenir et semble être de taille pour ces élections !",
     "attachments": []
+  },
+  {
+    "id": "1399765620429553914",
+    "timestamp": 1753800530298,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "C'est tout le contraire de l'aile populiste de la politique nationale qui navigue sans bruit dans ces législatives depuis les péripéties d'Emmet Assol, leader du FLN.",
+    "attachments": []
   }
 ]
