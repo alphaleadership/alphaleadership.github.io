@@ -568,5 +568,24 @@
     },
     "content": "( je dois y aller donc chacun votre tour et voilà",
     "attachments": []
+  },
+  {
+    "id": "1399774276734812180",
+    "timestamp": 1753802594122,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Je laisse l'honneur à <@1070602999329722368> pour s'exprimer, si vous le voulez bien. Je me suis étaler plus qu'elle sur le sujet, elle mériterait au moins, un temps de parole plus conséquent en cette fin de l'émission non ?",
+    "attachments": []
   }
 ]
