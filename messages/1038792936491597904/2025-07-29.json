@@ -512,5 +512,24 @@
     },
     "content": "C'est dans les textes en sanskrit qu'on nous dit de penser à son prochain et de s'aimer les uns les autres !",
     "attachments": []
+  },
+  {
+    "id": "1399758115179855974",
+    "timestamp": 1753798740907,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "*Uniquement dans les régions, pas dans la capitale ou les villes qui votent PPL.",
+    "attachments": []
   }
 ]
