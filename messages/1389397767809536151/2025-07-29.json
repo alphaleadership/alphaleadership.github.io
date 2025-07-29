@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1399766732637474917",
+    "timestamp": 1753800795469,
+    "author": {
+      "id": "1036745970077147279",
+      "username": "lemu321",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Il nous faut le programme",
+    "attachments": []
+  }
+]
