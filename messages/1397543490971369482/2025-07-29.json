@@ -549,5 +549,24 @@
     },
     "content": "Et bien, cela aura pris plus de temps que prévu, un petit mot de la fin pour nos télésepctateurs peut être ?",
     "attachments": []
+  },
+  {
+    "id": "1399773855530356797",
+    "timestamp": 1753802493699,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "( je dois y aller donc chacun votre tour et voilà",
+    "attachments": []
   }
 ]
