@@ -128,5 +128,31 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399751047320441014",
+    "timestamp": 1753797055798,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "**Affiche sur le modèle de société selon le Parti Libéral*(",
+    "attachments": [
+      {
+        "id": "1399751046800343040",
+        "name": "Sans_titre_20.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399751046800343040/Sans_titre_20.png?ex=688a233f&is=6888d1bf&hm=937cb8196b62ebeab921678a4dd655a6de801811c16e641a3256ddb0756bd670&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
