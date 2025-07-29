@@ -55,5 +55,24 @@
     },
     "content": "Marche Volontaire à Veroja (affiche) : https://discord.com/channels/1037794097894797442/1038792936491597904/1399764155006980109",
     "attachments": []
+  },
+  {
+    "id": "1399768815486898282",
+    "timestamp": 1753801292059,
+    "author": {
+      "id": "1079395149957832826",
+      "username": "basoules",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399325720412553266",
+      "name": "Campagne SV"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Affiches Votez Sh Pour : https://discord.com/channels/1037794097894797442/1038792936491597904/1399768710645813278",
+    "attachments": []
   }
 ]
