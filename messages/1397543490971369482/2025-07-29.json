@@ -397,5 +397,24 @@
     },
     "content": "Fixons déjà les règles de ce débat ! \nIl se terminera à 17h08 précisément, Madame Jiménez commencera à parler.\nEt j'aimerais d'abord parler d'un sujet qui semble présent dans vos 2 programmes, la décentralisation du pouvoir, pouvez vous nous en parler en détail ?",
     "attachments": []
+  },
+  {
+    "id": "1399768573215506432",
+    "timestamp": 1753801234297,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "*regarde avec dédain son adversaire au débat*",
+    "attachments": []
   }
 ]
