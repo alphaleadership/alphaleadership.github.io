@@ -294,5 +294,26 @@
       "https://discord.com/channels/1037794097894797442/1038792936491597904/1399799837356200067\nle PPL se moque maintenant des travailleurs...\nTant de mépris pour le peuple.\nC'est bas, mais c'est bas...\nEt je ne parlerai pas des libéraux qui divisent leurs discours en actes.\nDigne d'une comédie des siècles anciens..."
     ],
     "attachments": []
+  },
+  {
+    "id": "1399802542958837831",
+    "timestamp": 1753809333315,
+    "author": {
+      "id": "1036745970077147279",
+      "username": "lemu321",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Le PPL se moque de toi"
+    ],
+    "attachments": []
   }
 ]
