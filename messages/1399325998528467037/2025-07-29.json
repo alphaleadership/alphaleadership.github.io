@@ -283,5 +283,24 @@
     },
     "content": "https://discord.com/channels/1037794097894797442/1038792936491597904/1399784335413870674\n\nAffiche pour le vote.",
     "attachments": []
+  },
+  {
+    "id": "1399788342106783794",
+    "timestamp": 1753805947568,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399325998528467037",
+      "name": "Campagne PLDL"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "https://discord.com/channels/1037794097894797442/1038792936491597904/139978816592491330\n\n\n**Affiche Personnalisé du Candidat Delorme**",
+    "attachments": []
   }
 ]
