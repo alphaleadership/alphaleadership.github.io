@@ -1222,5 +1222,49 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399788165924913304",
+    "timestamp": 1753805905563,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "**Affiche du candidat <@568775627058970635>**",
+    "attachments": [
+      {
+        "id": "1399788162661744843",
+        "name": "Sans_titre_20250729_181026.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399788162661744843/Sans_titre_20250729_181026.png?ex=688a45d0&is=6888f450&hm=708eca0b84b5aca33ab07f1b38b932680b7a1266e6187fec4657943c877c1dc6&",
+        "contentType": "image/png"
+      },
+      {
+        "id": "1399788163484090501",
+        "name": "Sans_titre_20250729_181250.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399788163484090501/Sans_titre_20250729_181250.png?ex=688a45d0&is=6888f450&hm=7efcabbb8d72b1f68201a5eca983239374f323a3a04ee4ad2c36b646941e8a53&",
+        "contentType": "image/png"
+      },
+      {
+        "id": "1399788164297523290",
+        "name": "Sans_titre_20250729_181448.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399788164297523290/Sans_titre_20250729_181448.png?ex=688a45d1&is=6888f451&hm=e723ac9edd9dbdfbcd0e84debb15c822cf61bcf80e45eab81bcfd6135049b8f4&",
+        "contentType": "image/png"
+      },
+      {
+        "id": "1399788165312679966",
+        "name": "Sans_titre_20250729_181716.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399788165312679966/Sans_titre_20250729_181716.png?ex=688a45d1&is=6888f451&hm=8db9b856c3a34aac88d81b360d1f07a6ef8161bf20169f9c38fdf5d7a9c0fcca&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
