@@ -17,5 +17,24 @@
     },
     "content": "https://discord.com/channels/1037794097894797442/1038792936491597904/1399747349684944899 ** Affiche de campagne de Benoît Delorme avant son meeting dans la capitale **",
     "attachments": []
+  },
+  {
+    "id": "1399754031416479836",
+    "timestamp": 1753797767262,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399325998528467037",
+      "name": "Campagne PLDL"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "https://discord.com/channels/1037794097894797442/1038792936491597904/1399752782839418950\nhttps://discord.com/channels/1037794097894797442/1038792936491597904/1399752161868386456\nhttps://discord.com/channels/1037794097894797442/1038792936491597904/1399752065399656553\nhttps://discord.com/channels/1037794097894797442/1038792936491597904/1399751961213014032\nhttps://discord.com/channels/1037794097894797442/1038792936491597904/1399751869890564176\nhttps://discord.com/channels/1037794097894797442/1038792936491597904/1399751047320441014\nhttps://discord.com/channels/1037794097894797442/1038792936491597904/1399750889463349368\nhttps://discord.com/channels/1037794097894797442/1038792936491597904/1399751869890564176",
+    "attachments": []
   }
 ]
