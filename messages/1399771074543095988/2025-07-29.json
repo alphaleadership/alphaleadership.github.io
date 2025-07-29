@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1399771074543095988",
+    "timestamp": 1753801830660,
+    "author": {
+      "id": "1242133430318272554",
+      "username": "ebrithilar_elda2",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399771074543095988",
+      "name": "Aaron Greste"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "•⠀— **Informations principales**\n\n> __Nom : __ Greste\n> __Prénom : __ Aaron\n> __Origines : __ Lesotho, Listenbourg\n> __Date et lieu de naissance : __ 14 Juin 2002, Maseru\n> __Âge : __ 23 ans\n> __Orientation(s) politique(s) : __ Communaliste, régionaliste, indépendantiste\n> __Personnalité :__ reservé\n\n •⠀— **Courte biographie**\n\n> __Ambitions :__ protéger les droits des citoyens des villes moyennes et « petites »\n> __Biographie :__ à venir\n> __Photo :__",
+    "attachments": []
+  }
+]
