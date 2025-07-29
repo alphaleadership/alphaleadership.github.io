@@ -1625,5 +1625,26 @@
       "obligé de corriger les autres partis, je ne suis pas Volvik, plus grand philosophe de mon temps, pour rien"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399796813245976811",
+    "timestamp": 1753807967245,
+    "author": {
+      "id": "1036745970077147279",
+      "username": "lemu321",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Nous ne répondrons pas avec votre mépris. Nous ne parlons pas au système"
+    ],
+    "attachments": []
   }
 ]
