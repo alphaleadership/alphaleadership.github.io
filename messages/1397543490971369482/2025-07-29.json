@@ -416,5 +416,24 @@
     },
     "content": "*regarde avec dédain son adversaire au débat*",
     "attachments": []
+  },
+  {
+    "id": "1399768857735987302",
+    "timestamp": 1753801302132,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "*soupir*",
+    "attachments": []
   }
 ]
