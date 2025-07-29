@@ -232,5 +232,31 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399752161868386456",
+    "timestamp": 1753797321527,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "**Affiche sur la politique extérieure**",
+    "attachments": [
+      {
+        "id": "1399752161193234453",
+        "name": "Sans_titre_24.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399752161193234453/Sans_titre_24.png?ex=688a2449&is=6888d2c9&hm=67ac5e214428d28973179aa9109aeeefec4a48aae833fedbdf9913ee8f07da5f&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
