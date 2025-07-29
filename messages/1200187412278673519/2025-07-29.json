@@ -658,5 +658,33 @@
       "Oui en effet, notre menu politique est bon pour le pays, mais est un poison pour les idées irresponsables, et utopiques mettant en péril le pays, et ces idées vous les représenter, donc c'est tout à fait normal ce qui vous arrive. Pas de remboursement, juste un effet positif."
     ],
     "attachments": []
+  },
+  {
+    "id": "1399815353802162207",
+    "timestamp": 1753812387658,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "**Christian Alreinder va bientôt s'exprimer**"
+    ],
+    "attachments": [
+      {
+        "id": "1399815353470681180",
+        "name": "Sans_titre_27.png",
+        "url": "https://cdn.discordapp.com/attachments/1200187412278673519/1399815353470681180/Sans_titre_27.png?ex=688a5f23&is=68890da3&hm=8e72c03e62468f4a291801fcf876f05d03ed23891477eb682998f9887a94e0a6&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
