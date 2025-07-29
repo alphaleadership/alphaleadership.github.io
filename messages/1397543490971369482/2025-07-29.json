@@ -207,5 +207,24 @@
     },
     "content": "On peut se demander si le PPL et le FLN seront aussi important dans ces élections qu'ils ne l'étaient quelques semaines plus tôt !",
     "attachments": []
+  },
+  {
+    "id": "1399765792681234564",
+    "timestamp": 1753800571366,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Je suis absolument d'accord.",
+    "attachments": []
   }
 ]
