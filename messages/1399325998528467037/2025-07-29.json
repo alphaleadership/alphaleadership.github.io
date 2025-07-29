@@ -365,5 +365,26 @@
       "https://discord.com/channels/1037794097894797442/1038792936491597904/1399800996200321114\n\n**Programme du Parti Libéral**"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399807037927325726",
+    "timestamp": 1753810404999,
+    "author": {
+      "id": "1368604399370502165",
+      "username": "wilson.jbis_81187",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399325998528467037",
+      "name": "Campagne PLDL"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "https://discord.com/channels/1037794097894797442/1038792936491597904\n\n**Affiche sur l'UE**"
+    ],
+    "attachments": []
   }
 ]
