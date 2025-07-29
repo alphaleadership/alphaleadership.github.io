@@ -100,5 +100,24 @@
     },
     "content": "Je me permet dans ce cadre d'employé le terme suivant : la majorité silencieuse est avec nous.\n\nVous avez gagné le 2nd tour, par l'ajout et l'appui de voix issues des autres mouvements. On aura la majorité.",
     "attachments": []
+  },
+  {
+    "id": "1399765808590360648",
+    "timestamp": 1753800575159,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "\"Des autres mouvements.\" Robert Willinoff a été élu grâce aux voix de la SH et de leurs alliés : le FVL.\n\nOr, les deux sont réunis sous l'étendard de la Société Volontaire.\n\nFaut suivre un peu.",
+    "attachments": []
   }
 ]
