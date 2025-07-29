@@ -344,5 +344,26 @@
       "https://discord.com/channels/1037794097894797442/1038792936491597904/1399799515480850504\n\n** Discours de Benoît Delorme lors du meeting nationale du PLDL à Lurenberg **"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399801077439922347",
+    "timestamp": 1753808983908,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399325998528467037",
+      "name": "Campagne PLDL"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "https://discord.com/channels/1037794097894797442/1038792936491597904/1399800996200321114\n\n**Programme du Parti Libéral**"
+    ],
+    "attachments": []
   }
 ]
