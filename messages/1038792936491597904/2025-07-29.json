@@ -180,5 +180,31 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399751961213014032",
+    "timestamp": 1753797273687,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "**Affiche de campagne sur les finances publiques**",
+    "attachments": [
+      {
+        "id": "1399751960542052393",
+        "name": "Sans_titre_22.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399751960542052393/Sans_titre_22.png?ex=688a2419&is=6888d299&hm=c75dbece9ddaa7b0d4bc98bbd587eed149fb1813e4ce32164698564cd793de81&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
