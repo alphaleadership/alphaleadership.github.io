@@ -1737,5 +1737,26 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399799515480850504",
+    "timestamp": 1753808611508,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "_Le crépuscule tombe sur Lurenberg, capitale de la République listenbourgeoise. La vaste Place des Fondateurs, bordée par les bâtiments classiques du pouvoir, est noire de monde. Devant le Palais des Archives et l’Esplanade des Institutions, un podium monumental a été érigé. Deux gigantesques drapeaux flottent en arrière-plan : à gauche, le drapeau du Listenbourg, rouge et blanc, frappé de l’aigle impérial doré, surmontant la lettre N, entourée de lauriers. À droite, le drapeau européen, rappelant que le Listenbourg est dans l’Europe, mais pas sous elle. Des dizaines de milliers de personnes sont présentes. Les chants patriotiques se taisent. Une lumière blanche balaie la scène. Benoît Delorme monte sur l’estrade, salué par une ovation puissante. _\n\n⸻\n\n« Listenbourgeoises, Listenbourgeois,\n\nCe soir, nous sommes là. Face à nos symboles. Entre notre nation et l’Europe.\nMais qu’on soit clair : nous ne sommes ni une province, ni une région sans visage. Nous sommes un peuple. Et ce drapeau rouge et blanc, cette aigle d’or, ce “N”, cette couronne de lauriers , c’est notre héritage. Et nous allons le défendre. »\n\n⸻"
+    ],
+    "attachments": []
   }
 ]
