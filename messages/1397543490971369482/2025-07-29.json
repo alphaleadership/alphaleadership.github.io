@@ -321,5 +321,24 @@
     },
     "content": "Nous vous retrouvons après la phase de publicité pour le débat entre ces 2 têtes d'affiches !",
     "attachments": []
+  },
+  {
+    "id": "1399767990345535620",
+    "timestamp": 1753801095330,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Mesdames et messieurs, merci de votre patience !",
+    "attachments": []
   }
 ]
