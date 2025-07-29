@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1399742892943216660",
+    "timestamp": 1753795111643,
+    "author": {
+      "id": "753869121279623201",
+      "username": "r3by_19",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430381",
+      "name": "「💬」𝐃𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "La nouvelle loi autorise maintenant le racisme ?",
+    "attachments": []
+  }
+]
