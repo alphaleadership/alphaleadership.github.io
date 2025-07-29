@@ -17,5 +17,24 @@
     },
     "content": "y a cette émission aussi https://discord.com/channels/1037794097894797442/1397543490971369482/1398297329009819658",
     "attachments": []
+  },
+  {
+    "id": "1399757521639571646",
+    "timestamp": 1753798599396,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399325720412553266",
+      "name": "Campagne SV"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Programme : https://discord.com/channels/1037794097894797442/1038792936491597904/1399757383105773618",
+    "attachments": []
   }
 ]
