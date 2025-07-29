@@ -302,5 +302,24 @@
     },
     "content": "Il faut dire que nous avons commencé en avance 🤣",
     "attachments": []
+  },
+  {
+    "id": "1399766932009385984",
+    "timestamp": 1753800843003,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Nous vous retrouvons après la phase de publicité pour le débat entre ces 2 têtes d'affiches !",
+    "attachments": []
   }
 ]
