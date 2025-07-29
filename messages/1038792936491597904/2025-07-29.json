@@ -154,5 +154,31 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399751869890564176",
+    "timestamp": 1753797251914,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "**Affiche de campagne du Parti Libéral sur les énergies**",
+    "attachments": [
+      {
+        "id": "1399751869445705768",
+        "name": "Sans_titre_21-min.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399751869445705768/Sans_titre_21-min.png?ex=688a2403&is=6888d283&hm=934a8e5e68e1d9f2ea6fc662ce46a0af301479defee956d68522f66133d695ea&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
