@@ -1959,5 +1959,33 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399806563342094336",
+    "timestamp": 1753810291849,
+    "author": {
+      "id": "1368604399370502165",
+      "username": "wilson.jbis_81187",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Affiche sur l'Union Européenne - PLDL"
+    ],
+    "attachments": [
+      {
+        "id": "1399806562653962351",
+        "name": "Capture_decran_1006.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399806562653962351/Capture_decran_1006.png?ex=688a56f3&is=68890573&hm=ee0f663ab26c96cebaf7f276ff8ff7839e0d5a2a419e59065a394d131f28e346&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
