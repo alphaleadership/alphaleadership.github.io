@@ -112,5 +112,24 @@
     },
     "content": "Effectivement, il y a eu du changement depuis l'élection de Robert Willinoff.",
     "attachments": []
+  },
+  {
+    "id": "1399765007062925323",
+    "timestamp": 1753800384060,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Comme je le disais précédemment, SH et le FVL font front commun pour ces législatives, bien qu'on aie pas plus d'infos sur les modalités de cet accord, on est en droit d'émettre des doutes sur l'avenir du pays, si monsieur John Volvik et son parti venaient à récupérer des rôles importants, mais je suis certain que société humaine à bien réfléchie à cela !",
+    "attachments": []
   }
 ]
