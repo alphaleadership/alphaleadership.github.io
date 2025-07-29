@@ -150,5 +150,24 @@
     },
     "content": "L'autre point c'est la monté en puissance du centre !",
     "attachments": []
+  },
+  {
+    "id": "1399765409921761310",
+    "timestamp": 1753800480109,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Oui effectivement, on a vu le parti libéral démocrate listenbourgeois particulièrement actif durant cette campagne, mené par Carmélia Reuland nottament, donné très haut dans les sondages, le PLD semble promis à un bel avenir et semble être de taille pour ces élections !",
+    "attachments": []
   }
 ]
