@@ -359,5 +359,24 @@
     },
     "content": "Et comme vous le voyez, nous avons avec nous madame Carmélia Reuland, comment allez-vous ?",
     "attachments": []
+  },
+  {
+    "id": "1399768080711680011",
+    "timestamp": 1753801116875,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "*arrive avec un grand sourire, salue la régie, et arrive sur le plateau.*",
+    "attachments": []
   }
 ]
