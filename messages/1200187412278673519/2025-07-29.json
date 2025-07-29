@@ -420,5 +420,26 @@
       "C'est un peu plus clairs en actes qu'en promesses insensées non ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399808187921731594",
+    "timestamp": 1753810679179,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "nous ne sommes pas au théâtre monsieur, nous ne venons pas faire le spectacle ! Nous sommes là pour nos compatriotes ! Si vous avez le temps pour vous amuser, abandonnez vos ambitions de pouvoir !"
+    ],
+    "attachments": []
   }
 ]
