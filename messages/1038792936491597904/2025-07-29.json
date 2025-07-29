@@ -2183,5 +2183,33 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399825107937005660",
+    "timestamp": 1753814713225,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Listenbourgeoises, Listenbourgeois. \n\nDemain, se joue l’avenir du pays, demain se joue votre avenir. Et il se jouera dans les urnes. \nVotre avenir est dans l’enveloppe que vous mettrez dans l’urne.\nJe me présente non pas comme de droite, non pas comme de gauche, mais comme quelqu’un d’équilibré et de responsable. J’ai donc créer un parti à mon image. Nous ne céderons pas au clivage gauche-droite, non, nous ne tomberons pas dans ces absurdités. Nous sommes ouverts aux compromis, qu’ils soient à gauche ou à droite, cela ne veut pas dire, renier nos idéologies, nos convictions. \n\nJe suis donc persuadé, que dés le lendemain des résultats des élections, M. Willinoff passera un coup de fil au Parti Libéral. Nous avons un programme clair, qui reflète nos ambitions et nos convictions. Un programme, non pas pour nous, mais pour la nation, pour nos citoyens. \n\nUn programme, pour les citoyens, pour la classe moyenne, pour la classe populaire et pour la classe supérieure. Un programme, qui garantit le droit logique à la sécurité pour tous. Un programme qui garantit la défense de notre nation, face aux agressions extérieures. Un programme qui défend le droit à l’éducation pour tous. Un programme pour nos ouvriers, pour les Listenbourgeois qui travaillent dans l’ombre pour nous garantir la lumière. \n\nUn programme qui défend notre indépendance économique des Etats-Unis, qui garantit une compétitivité de nos entreprises. Un programme budgétairement équilibré, réaliste, et qui ne promet pas mondes et merveilles à nos citoyens.\n\nAlors dés demain, votez non pas pour des promesses insensées, irréalisables. Ne votez pas pour un retour à l'an 1900. Votez le progrès, votez la baisse d'impôts, votez la sécurité, votez l'écologie, votez PLD. \n\nViva le Listenbourg, Viva la République, Viva la Démocratie et l'Union !"
+    ],
+    "attachments": [
+      {
+        "id": "1399825107987464373",
+        "name": "f3dad6f820ad85ec5a16afc5a1237c9b0db731841f03fe68e0f559fb0292d14c.jpg",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399825107987464373/f3dad6f820ad85ec5a16afc5a1237c9b0db731841f03fe68e0f559fb0292d14c.jpg?ex=688a6839&is=688916b9&hm=5494721f37ff4bf8d34e7cda561f4040d9c582c44186d1910c0ec73321732f84&",
+        "contentType": "image/jpeg"
+      }
+    ]
   }
 ]
