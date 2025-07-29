@@ -24,5 +24,31 @@
         "contentType": "image/jpeg"
       }
     ]
+  },
+  {
+    "id": "1399750499401732176",
+    "timestamp": 1753796925164,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "**Affiche de campagne du Parti Libéral pour les Législatives à propos de la sécurité et de la police**",
+    "attachments": [
+      {
+        "id": "1399750498701017149",
+        "name": "Sans_titre_18.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399750498701017149/Sans_titre_18.png?ex=688a22bc&is=6888d13c&hm=66fec471923377cb030d29ee49bfae7660983e5996bc4833ed2b9751a05a6aef&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
