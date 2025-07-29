@@ -76,5 +76,31 @@
         "contentType": "image/png"
       }
     ]
+  },
+  {
+    "id": "1399750704721035395",
+    "timestamp": 1753796974116,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "**Affiche de campagne sur l'administration et les services publics**",
+    "attachments": [
+      {
+        "id": "1399750703857012837",
+        "name": "Sans_titre_19.png",
+        "url": "https://cdn.discordapp.com/attachments/1038792936491597904/1399750703857012837/Sans_titre_19.png?ex=688a22ed&is=6888d16d&hm=e70bddbc90e5405cae1dbcf11e4e9d59a6bd4009535d631e09db5665d7dd8d93&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
