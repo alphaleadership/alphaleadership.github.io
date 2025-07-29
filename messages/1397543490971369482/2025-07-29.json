@@ -17,5 +17,24 @@
     },
     "content": "# LE POLITICO-RECAP \n\nBonjour et bienvenue sur albinos ! \nJe suis Fred Kiros, accompagné de Marcelo Para, et avant le vote pour les législatives, nous tenions à tenir une petite émission plateau sur l'actualité politique ! Restez jusqu'à la fin où 2 personnalités nous ferons l'honneur de venir pour débattre courtement sur quelques sujets !\nMarcelo Bonjour !",
     "attachments": []
+  },
+  {
+    "id": "1399764066368622743",
+    "timestamp": 1753800159781,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "Mais bonjours à toi aussi Fred, je suis certain qu'on a beaucoup à dire aujourd'hui !",
+    "attachments": []
   }
 ]
