@@ -587,5 +587,24 @@
     },
     "content": "Je laisse l'honneur à <@1070602999329722368> pour s'exprimer, si vous le voulez bien. Je me suis étaler plus qu'elle sur le sujet, elle mériterait au moins, un temps de parole plus conséquent en cette fin de l'émission non ?",
     "attachments": []
+  },
+  {
+    "id": "1399776445714399413",
+    "timestamp": 1753803111247,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1397543490971369482",
+      "name": "📺27︙albinos"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": "( on aurait du penser au fait que pheny et pavulam mettent littéralement des plombes à écrire/répondre ... )",
+    "attachments": []
   }
 ]
