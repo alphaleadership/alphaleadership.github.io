@@ -93,5 +93,24 @@
     },
     "content": "Il me semble que c’est un bot de raid",
     "attachments": []
+  },
+  {
+    "id": "1399773329614835766",
+    "timestamp": 1753802368311,
+    "author": {
+      "id": "840985745182425108",
+      "username": "vanguard_arbinger",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1142253474998910976",
+      "name": "「💬」discussion-ssre"
+    },
+    "guild": {
+      "id": "1101569746333351986",
+      "name": "Katzetœ | Service secret listenbourgeois"
+    },
+    "content": "Non c’est un bot espion",
+    "attachments": []
   }
 ]
