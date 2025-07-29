@@ -279,5 +279,26 @@
       "ben je peut retrouvée des messagee au besoin si le bot est sur le serveur"
     ],
     "attachments": []
+  },
+  {
+    "id": "1399804912354984027",
+    "timestamp": 1753809898223,
+    "author": {
+      "id": "1212431738219925568",
+      "username": "jiv_28",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1142253474998910976",
+      "name": "「💬」discussion-ssre"
+    },
+    "guild": {
+      "id": "1101569746333351986",
+      "name": "Katzetœ | Service secret listenbourgeois"
+    },
+    "content": [
+      "Mais le message vocal?"
+    ],
+    "attachments": []
   }
 ]
