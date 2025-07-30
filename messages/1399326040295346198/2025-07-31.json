@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1400248261876650004",
+    "timestamp": 1753915600986,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1399326040295346198",
+      "name": "Campagne PPL"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "ça emmène vers rien là"
+    ],
+    "attachments": []
+  }
+]
