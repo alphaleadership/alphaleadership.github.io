@@ -3432,5 +3432,26 @@
       "Moi j’appelle ça du bizutage"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400597112583884992",
+    "timestamp": 1753998773476,
+    "author": {
+      "id": "1167594421555036262",
+      "username": "shiro._.akami",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "faut attendre UwUù"
+    ],
+    "attachments": []
   }
 ]
