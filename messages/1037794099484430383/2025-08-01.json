@@ -481,5 +481,26 @@
       "Ou même suis-je humain ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400614158642315326",
+    "timestamp": 1754002837573,
+    "author": {
+      "id": "1030801549959630849",
+      "username": "banane_fr5",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Pourrait ont considéré une ia qui présente un instinct de survie comme vivante ? Si non, Pourquoi ?"
+    ],
+    "attachments": []
   }
 ]
