@@ -672,5 +672,26 @@
       "WTF"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400585538632683602",
+    "timestamp": 1753996014031,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Je crois que Retailleau en a eu marre et a du se dire , ils veulent être autonome et bah allez y débouillez vous mdr"
+    ],
+    "attachments": []
   }
 ]
