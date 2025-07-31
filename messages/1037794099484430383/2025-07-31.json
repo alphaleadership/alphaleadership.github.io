@@ -4553,5 +4553,26 @@
       "Donc ils sont de droite ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400598534461587580",
+    "timestamp": 1753999112478,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Ils sont chaotistes"
+    ],
+    "attachments": []
   }
 ]
