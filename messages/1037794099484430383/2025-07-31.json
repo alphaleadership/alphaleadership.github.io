@@ -1372,5 +1372,26 @@
       "C’est de l’anglais"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400587097336709150",
+    "timestamp": 1753996385655,
+    "author": {
+      "id": "1212431738219925568",
+      "username": "jiv_28",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Mais en version régionale"
+    ],
+    "attachments": []
   }
 ]
