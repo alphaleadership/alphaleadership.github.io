@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1400444055623827538",
+    "timestamp": 1753962281853,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "<@879384380152381460> <@1212431738219925568>, j'ai une question\nDans la V1, une loi avait été faite pour que le Lis soit égal à l'Euro\nMais vu qu'elle n'est plus valable, on reprend le 1L ≈ 1.6€ pré-2023 ?"
+    ],
+    "attachments": []
+  }
+]
