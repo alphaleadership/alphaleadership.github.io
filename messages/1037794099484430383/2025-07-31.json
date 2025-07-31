@@ -376,5 +376,26 @@
       "Oh d’ailleurs Shiro rappelle moi que je dois remettre ma PP lofi le 4 août"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400582518943780894",
+    "timestamp": 1753995294081,
+    "author": {
+      "id": "1167594421555036262",
+      "username": "shiro._.akami",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "bravo c'est juste"
+    ],
+    "attachments": []
   }
 ]
