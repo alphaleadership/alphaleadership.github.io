@@ -4595,5 +4595,26 @@
       "Ah oui"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400598584398839968",
+    "timestamp": 1753999124384,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Non, mais apr implication contraire oui"
+    ],
+    "attachments": []
   }
 ]
