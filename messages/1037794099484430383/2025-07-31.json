@@ -1794,5 +1794,26 @@
       "On dit toujours « s’est fait »"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400594923316711545",
+    "timestamp": 1753998251514,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "On n’accorde jamais le participe passé de faire avec quoi que ce soit lorsqu’il est suivi d’un infinitif"
+    ],
+    "attachments": []
   }
 ]
