@@ -103,5 +103,26 @@
       "Merci"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400407478679765023",
+    "timestamp": 1753953561230,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430381",
+      "name": "「💬」𝐃𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "<:risitasperruque:1066713649793728613> y a une faille interdimmensionnelle ou quoi, pour que Trumson s'exprime ici ?"
+    ],
+    "attachments": []
   }
 ]
