@@ -4613,8 +4613,10 @@
       "name": "Le Parlement du Listenbourg"
     },
     "content": [
-      "Non, mais apr implication contraire oui"
+      "Non, mais apr implication contraire oui",
+      "Non, mais par implication contraire oui"
     ],
-    "attachments": []
+    "attachments": [],
+    "editedTimestamp": 1753999128267
   }
 ]
