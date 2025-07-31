@@ -1162,5 +1162,26 @@
       "Roh"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400586655714381936",
+    "timestamp": 1753996280364,
+    "author": {
+      "id": "1167594421555036262",
+      "username": "shiro._.akami",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "que serait un bon anime sans fan service ?"
+    ],
+    "attachments": []
   }
 ]
