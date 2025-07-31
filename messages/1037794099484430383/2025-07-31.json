@@ -945,5 +945,33 @@
       "De diviser les français comme ça"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400586374867980389",
+    "timestamp": 1753996213405,
+    "author": {
+      "id": "1167594421555036262",
+      "username": "shiro._.akami",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "💀"
+    ],
+    "attachments": [
+      {
+        "id": "1400586374557597797",
+        "name": "SSenko_10_4.png",
+        "url": "https://cdn.discordapp.com/attachments/1037794099484430383/1400586374557597797/SSenko_10_4.png?ex=688d2d35&is=688bdbb5&hm=86ecb0ba838e2bfa8b1d2211dbbd0d03f9ff3bbccce8aa78c245a4bb49ee04eb&",
+        "contentType": "image/png"
+      }
+    ]
   }
 ]
