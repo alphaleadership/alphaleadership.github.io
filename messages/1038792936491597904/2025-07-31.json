@@ -40,5 +40,26 @@
       "**COMMUNIQUE DU BUREAU EXECUTIF DU PLDL SUITE A L'INCIDENT REULAND** \n\nLe Parti Libéral Démocrate apporte son soutien politique à Carmélia Reuland. Nous ne tolérerons aucune agressivité envers Mme. Reuland, et j'appelle solenellement à ne pas user de cet incident à des fins éléctorales ou politiques. Une enquête interne est en cours."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400552698587381922",
+    "timestamp": 1753988184354,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "ptdr."
+    ],
+    "attachments": []
   }
 ]
