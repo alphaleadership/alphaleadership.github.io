@@ -4066,5 +4066,26 @@
       "Ça serait drôle de ping everyone là maintenant\nEt redire ce que t'as supprimé 😈"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400597941026160784",
+    "timestamp": 1753998970992,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Du genre \"@everyône on encule la droite\""
+    ],
+    "attachments": []
   }
 ]
