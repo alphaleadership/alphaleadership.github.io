@@ -2319,5 +2319,26 @@
       "Bonne soirée et bonne nuit à tous, camardes."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400595815072010380",
+    "timestamp": 1753998464125,
+    "author": {
+      "id": "1167594421555036262",
+      "username": "shiro._.akami",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "bonne nuit camarade"
+    ],
+    "attachments": []
   }
 ]
