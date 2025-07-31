@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1400527548697542697",
+    "timestamp": 1753982188153,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1047809434245673031",
+      "name": "「📰」𝐁𝐮𝐫𝐞𝐚𝐮-𝐝𝐞-𝐕𝐨𝐭𝐞"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "<@&1037843633661026314> il est pas trop tard pour voter"
+    ],
+    "attachments": []
+  }
+]
