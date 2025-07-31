@@ -82,5 +82,26 @@
       "Okidoki"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400481502466150502",
+    "timestamp": 1753971209876,
+    "author": {
+      "id": "1212431738219925568",
+      "username": "jiv_28",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Comme a dit Arbinger, vu qu’on est en 2025 aussi en RP on garde la parité euro-lis, en plus c’est plus simple"
+    ],
+    "attachments": []
   }
 ]
