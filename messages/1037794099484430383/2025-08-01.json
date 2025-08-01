@@ -4191,5 +4191,26 @@
       "J’ai fait le contraire de Macron"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400945915187171558",
+    "timestamp": 1754081934497,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Ce qu’il aurait dû faire"
+    ],
+    "attachments": []
   }
 ]
