@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1400927473243521207",
+    "timestamp": 1754077537595,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1309254368960450570",
+      "name": "「🧳」𝐀𝐧𝐧𝐨𝐧𝐜𝐞𝐬-𝐝𝐞-𝐥𝐚-𝐏𝐫é𝐬𝐢𝐝𝐞𝐧𝐜𝐞"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "# Allocution du président de la République dans quelques instants\n<:flag_lis:1265964579305951264> *Palais du Luxmander* <:flag_lis:1265964579305951264>"
+    ],
+    "attachments": []
+  }
+]
