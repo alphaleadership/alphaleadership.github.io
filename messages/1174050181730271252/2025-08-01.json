@@ -81,8 +81,10 @@
       "name": "Le Parlement du Listenbourg"
     },
     "content": [
-      "Suite à la démission surprise de <@789567269327208459>, <@758721646625816607> est le nouveau porte parole du gouvernement."
+      "Suite à la démission surprise de <@789567269327208459>, <@758721646625816607> est le nouveau porte parole du gouvernement.",
+      "Suite à la démission surprise de <@789567269327208459>, Jean foutre ( <@758721646625816607> ) est le nouveau porte parole du gouvernement."
     ],
-    "attachments": []
+    "attachments": [],
+    "editedTimestamp": 1754083079993
   }
 ]
