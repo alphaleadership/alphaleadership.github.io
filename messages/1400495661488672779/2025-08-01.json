@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1400769916956577832",
+    "timestamp": 1754039973249,
+    "author": {
+      "id": "840985745182425108",
+      "username": "vanguard_arbinger",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1400495661488672779",
+      "name": "ticket-329"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "<@1224729451506700380>"
+    ],
+    "attachments": []
+  }
+]
