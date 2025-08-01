@@ -1603,5 +1603,26 @@
       "Et quand bien même, la motion ne serait pas légitime, puisque infondée"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400969352156549131",
+    "timestamp": 1754087522306,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Je nomme qui je veux, on s’en fout du reste, c’est le gouvernement qui est responsable devant le parlement"
+    ],
+    "attachments": []
   }
 ]
