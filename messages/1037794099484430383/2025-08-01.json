@@ -4338,5 +4338,26 @@
       "ah quoi que"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400946228220657697",
+    "timestamp": 1754082009130,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Hors de toute opinion"
+    ],
+    "attachments": []
   }
 ]
