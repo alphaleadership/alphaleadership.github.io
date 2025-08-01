@@ -397,5 +397,26 @@
       "https://tenor.com/view/big-flo-oli-dommage-bigflo-gif-26483663"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400949882843435108",
+    "timestamp": 1754082880460,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Un coup de traitrise surprenant, alors que, persuadés de votre défaite, vous nous promettiez soutien il y a quelques jours"
+    ],
+    "attachments": []
   }
 ]
