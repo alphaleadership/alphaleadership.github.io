@@ -2190,9 +2190,11 @@
       "name": "Le Parlement du Listenbourg"
     },
     "content": [
-      "Pourquoi tu t’es renommer « Tu es main gauche » <@892092107714592839> ?"
+      "Pourquoi tu t’es renommer « Tu es main gauche » <@892092107714592839> ?",
+      "Pourquoi tu t’es renommé « Tu es main gauche » <@892092107714592839> ?"
     ],
-    "attachments": []
+    "attachments": [],
+    "editedTimestamp": 1754044104780
   },
   {
     "id": "1400787163079250081",
