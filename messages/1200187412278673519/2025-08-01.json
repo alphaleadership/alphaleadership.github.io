@@ -418,5 +418,26 @@
       "Un coup de traitrise surprenant, alors que, persuadés de votre défaite, vous nous promettiez soutien il y a quelques jours"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400950056789741841",
+    "timestamp": 1754082921932,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Pas d'honneur dans votre parti, cela est bien dommage, vous fuyez comme Picasso devant le chateau de Kurt Cobain"
+    ],
+    "attachments": []
   }
 ]
