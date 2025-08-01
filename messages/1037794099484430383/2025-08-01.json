@@ -3916,5 +3916,26 @@
       "https://tenor.com/view/star-wars-palpatine-palpachon-gif-13703647"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400885337047433347",
+    "timestamp": 1754067491543,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Et Palpatine remporte les élections sénatoriales impériales."
+    ],
+    "attachments": []
   }
 ]
