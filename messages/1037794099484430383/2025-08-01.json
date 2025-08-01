@@ -1575,5 +1575,26 @@
       "Mais vu qu'il est gentil, il pénalise pas trop."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400775767914315867",
+    "timestamp": 1754041368226,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Je crois que tu as oublié que j'étais PM à ce moment-là, et que le PM avait plus de pouvoir que le président."
+    ],
+    "attachments": []
   }
 ]
