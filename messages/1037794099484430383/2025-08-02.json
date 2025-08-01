@@ -1393,5 +1393,26 @@
       "https://tenor.com/view/shannon-sharpe-shay-nope-nah-nuhuh-gif-20451166"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400968889445257226",
+    "timestamp": 1754087411987,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Dernière personne que je nommerais mdr"
+    ],
+    "attachments": []
   }
 ]
