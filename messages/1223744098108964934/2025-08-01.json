@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1400654607675559987",
+    "timestamp": 1754012481374,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1223744098108964934",
+      "name": "「🎭」ʍɛʍɛ"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "LFI découvre Ryanair, easyJet, TAP, Finnair et le monde merveilleux des compagnies aériennes."
+    ],
+    "attachments": [
+      {
+        "id": "1400654607457452123",
+        "name": "20250801_031956.jpg",
+        "url": "https://cdn.discordapp.com/attachments/1223744098108964934/1400654607457452123/20250801_031956.jpg?ex=688d6cc1&is=688c1b41&hm=1cbd79b3e2b90c228fb33348368a9f361de0ee5da5f2092d2ef718fcdc6f873d&",
+        "contentType": "image/jpeg"
+      }
+    ]
+  }
+]
