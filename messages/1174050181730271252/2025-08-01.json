@@ -63,5 +63,26 @@
       "Ministre des langues étrangères : <@1036745970077147279> \nPorte parole du gouvernement <@789567269327208459>"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400950242634891274",
+    "timestamp": 1754082966241,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1174050181730271252",
+      "name": "「🧳」𝐀𝐧𝐧𝐨𝐧𝐜𝐞𝐬-𝐃𝐮-𝐆𝐨𝐮𝐯𝐞𝐫𝐧𝐞𝐦𝐞𝐧𝐭"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Suite à la démission surprise de <@789567269327208459>, <@758721646625816607> est le nouveau porte parole du gouvernement."
+    ],
+    "attachments": []
   }
 ]
