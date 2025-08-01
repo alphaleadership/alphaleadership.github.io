@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1400965395791478795",
+    "timestamp": 1754086579035,
+    "author": {
+      "id": "1072941929228161064",
+      "username": "benjifrfr",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1278876216564121643",
+      "name": "「💸」𝐒𝐚𝐥𝐚𝐢𝐫𝐞𝐬"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "!!collect"
+    ],
+    "attachments": []
+  }
+]
