@@ -2465,9 +2465,11 @@
       "name": "Le Parlement du Listenbourg"
     },
     "content": [
-      "\"Tu es main gauche\" + \"Abracadabrz\" = ?"
+      "\"Tu es main gauche\" + \"Abracadabrz\" = ?",
+      "\"Tu es main gauche\" + \"Abracadabra\" = ?"
     ],
-    "attachments": []
+    "attachments": [],
+    "editedTimestamp": 1754044415616
   },
   {
     "id": "1400788521811443773",
