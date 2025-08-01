@@ -1708,5 +1708,26 @@
       "Si tu fais passer ton ego avant les intérêts de ton parti, foutu"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400969478069682298",
+    "timestamp": 1754087552326,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "La Voix du diable mdrr"
+    ],
+    "attachments": []
   }
 ]
