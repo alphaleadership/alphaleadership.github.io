@@ -40,5 +40,26 @@
       "!!collect"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400940994744025189",
+    "timestamp": 1754080761372,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1278876216564121643",
+      "name": "「💸」𝐒𝐚𝐥𝐚𝐢𝐫𝐞𝐬"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "!!collect"
+    ],
+    "attachments": []
   }
 ]
