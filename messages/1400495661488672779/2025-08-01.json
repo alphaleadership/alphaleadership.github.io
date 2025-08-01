@@ -103,5 +103,26 @@
       "Je suis venu de base pour un partenariat mais un TRM est aussi possible"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400869100179296357",
+    "timestamp": 1754063620372,
+    "author": {
+      "id": "840985745182425108",
+      "username": "vanguard_arbinger",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1400495661488672779",
+      "name": "ticket-329"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "a voir avec <@702155370054811658>  et <@879384380152381460>"
+    ],
+    "attachments": []
   }
 ]
