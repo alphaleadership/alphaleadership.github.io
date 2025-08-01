@@ -87,5 +87,26 @@
     ],
     "attachments": [],
     "editedTimestamp": 1754083079993
+  },
+  {
+    "id": "1400951666651697162",
+    "timestamp": 1754083305753,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1174050181730271252",
+      "name": "「🧳」𝐀𝐧𝐧𝐨𝐧𝐜𝐞𝐬-𝐃𝐮-𝐆𝐨𝐮𝐯𝐞𝐫𝐧𝐞𝐦𝐞𝐧𝐭"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "J'appelle par ailleurs les partis inscrits aux élections à nommer au plus vite leurs députés. Afin que le pays puisse aller de l'avant."
+    ],
+    "attachments": []
   }
 ]
