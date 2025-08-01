@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1400927637060190239",
+    "timestamp": 1754077576652,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "**CARMÉLIA REULAND S'EXPRIME** : \n\n*Le Président de la République sait ce qui lui reste à faire, son alliance avec le camp de Volvik n'a pas été fructueux pour lui garantir une majorité solide comme il espérait, la droite est en position favorable pour construire une majoroté, j'appelle donc <@879384380152381460> à opter vers un choix stable, et durable pour la conduite du pays, enchaîner les blocages, ou même oser la dissolution ne lui seraient que défavorable. Le peuple a attribué sa confiance aux camps de droite.*"
+    ],
+    "attachments": []
+  }
+]
