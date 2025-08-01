@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1400651856971173970",
+    "timestamp": 1754011825555,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1179834924501569587",
+      "name": "「🗣」𝐃𝐞́𝐛𝐚𝐭-𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "https://tenor.com/view/trump-biden-debate-i-really-dont-know-what-he-said-huh-gif-3592368097468057702"
+    ],
+    "attachments": []
+  }
+]
