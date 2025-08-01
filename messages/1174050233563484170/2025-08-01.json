@@ -19,5 +19,26 @@
       "# Gouvernement VOLVIK I"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400952152955818025",
+    "timestamp": 1754083421697,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1174050233563484170",
+      "name": "「📜」𝐋𝐢𝐬𝐭𝐞-𝐝𝐞𝐬-𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐞𝐬"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Premier Ministre : John Volvik\n\nMinistre de l'Économie, des Finances et du Budget : Jean Parping\nMinistre de l'Intérieur, des Territoires et des Infrastructures : Jean Nelthiön\nMinistre des Affaires étrangères, de la Diplomatie et de l'Europe : Jorgen Van Lœnstein\nMinistre de l'Égalité et de la Justice : Aaron Greste\nMinistre de la Défense, des Armées et de la Marine : sam spectro\nMinistre de l'Instruction publique et de l'Enseignement supérieur : Léo Vander\nMinistre de la Culture, de la Jeunesse, de la Langue et des Sports : Kurapika\nMinistre de la Recherche, de la Souveraineté industrielle et numérique, des Transports et de l'Air : Thomas Grayson\nMinistre de la Transition écologique et énergétique, du Développement durable et de l'Agriculture : Arthur Valkyrium\nMinistre de la Santé publique, des Solidarités et de la Sécurité sociale : Johann Schneider\nMinistre des Affaires sociales, du Travail, de l'Industrie et de l'Emploi : Isidore Nerahim\nMinistre des langues étrangères australes : Aurélien Listen \n\nPorte parole du gouvernement : Jean Foutre"
+    ],
+    "attachments": []
   }
 ]
