@@ -2968,5 +2968,26 @@
       "Oui mais sur le rp ça à toujours marché"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400971035636928603",
+    "timestamp": 1754087923679,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "C’est hypocrite, mais c’est comme ça"
+    ],
+    "attachments": []
   }
 ]
