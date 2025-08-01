@@ -4674,5 +4674,26 @@
       "RG va bosser là"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400947381390020659",
+    "timestamp": 1754082284067,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "nan mais t'es fou ou quoi t'es pas ici pour débattre , faut travailler 😂"
+    ],
+    "attachments": []
   }
 ]
