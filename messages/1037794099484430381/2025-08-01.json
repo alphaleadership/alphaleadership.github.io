@@ -426,5 +426,26 @@
       "j'espère que le centre se montrera raisonnable pour bloquer le wokisme !"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400930194184995059",
+    "timestamp": 1754078186318,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430381",
+      "name": "「💬」𝐃𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "https://discord.com/channels/1037794097894797442/1038792936491597904/1400927637060190239\n\nDépend des décisions de l'actuel locataire, mais je lui ai rappelé les faits, monsieur D'Albi."
+    ],
+    "attachments": []
   }
 ]
