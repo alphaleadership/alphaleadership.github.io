@@ -504,5 +504,26 @@
       "Bon je vais parler au peuple"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400936442456445029",
+    "timestamp": 1754079676022,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "le discours est déjà prêt mdr ?"
+    ],
+    "attachments": []
   }
 ]
