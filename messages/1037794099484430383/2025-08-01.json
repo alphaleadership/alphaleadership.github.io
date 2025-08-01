@@ -3132,5 +3132,26 @@
       "Techniquement c'est des allemands qui se sont fight avec des allemands.\n\nMais dans tout les cas, dans une guerre c'est toujours fracticide, un humain tue un autre humain alors qu'ils partagent la même ascendance commune."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400825666630451230",
+    "timestamp": 1754053265007,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "ils sont pas allemands"
+    ],
+    "attachments": []
   }
 ]
