@@ -4065,5 +4065,26 @@
       "L'attente du discours de Rg, ça sent rien de bon, je suis mort."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400945646889865257",
+    "timestamp": 1754081870530,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Franchement"
+    ],
+    "attachments": []
   }
 ]
