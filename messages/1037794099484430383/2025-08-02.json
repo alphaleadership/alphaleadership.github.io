@@ -1225,5 +1225,26 @@
       "T'as raison, mais je me dis c'est vrai sah...j'arrive pas à me dire que c'était pas lui mdrr."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400967703300411543",
+    "timestamp": 1754087129188,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "j'ai prouvé  avec la carte mdr peut pas faire plus"
+    ],
+    "attachments": []
   }
 ]
