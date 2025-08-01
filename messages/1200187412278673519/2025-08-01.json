@@ -544,5 +544,26 @@
       "Le Parti Communiste va étudier la possibilité d'une censure du gouvernement Volvik."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400959873759449131",
+    "timestamp": 1754085262480,
+    "author": {
+      "id": "1212431738219925568",
+      "username": "jiv_28",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Pas trop dur le réveil?"
+    ],
+    "attachments": []
   }
 ]
