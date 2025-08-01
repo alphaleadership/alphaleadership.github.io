@@ -2512,5 +2512,33 @@
       "Tkt y aura sa fraterie qui va arriver <:risitaspoulet:1066713667854401598>"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400788908161241168",
+    "timestamp": 1754044501105,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "J’ai appris qu’il existait 14 personnes plus folles que moi"
+    ],
+    "attachments": [
+      {
+        "id": "1400788907812982937",
+        "name": "IMG_6049.png",
+        "url": "https://cdn.discordapp.com/attachments/1037794099484430383/1400788907812982937/IMG_6049.png?ex=688de9d5&is=688c9855&hm=d5e848d090978178911c7cff8eb2b077f73ea9470caed3a767f298489a2cb68f&",
+        "contentType": "image/jpeg"
+      }
+    ]
   }
 ]
