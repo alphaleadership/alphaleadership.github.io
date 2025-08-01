@@ -1890,5 +1890,26 @@
       "Mais bref <@702155370054811658> était le PM, juste il a pas fait d'effort niveau diplomatie, et t'as laissé le champ à Renaulié et Jouvet."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400780848097263671",
+    "timestamp": 1754042579436,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Si je me trompe pas"
+    ],
+    "attachments": []
   }
 ]
