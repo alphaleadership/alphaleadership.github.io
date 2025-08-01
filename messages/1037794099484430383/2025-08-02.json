@@ -1582,5 +1582,26 @@
       "Je montre simplement mes convictions"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400969255956119663",
+    "timestamp": 1754087499370,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Et quand bien même, la motion ne serait pas légitime, puisque infondée"
+    ],
+    "attachments": []
   }
 ]
