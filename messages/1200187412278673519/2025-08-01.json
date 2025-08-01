@@ -271,5 +271,26 @@
       "Honteux mon ptit b*tard, c'est bien à nous de gouverner. On est pas en rp macron."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400943944224735373",
+    "timestamp": 1754081464583,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Censure."
+    ],
+    "attachments": []
   }
 ]
