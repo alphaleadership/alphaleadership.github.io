@@ -103,5 +103,26 @@
       "Peu importe les résultats de ce soir : *je* m'opposerai personnellement à une cohabitation de la droite."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400924696781918288",
+    "timestamp": 1754076875635,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "La grande famille de droite est majoritaire, la cohabitation semble être inéluctable."
+    ],
+    "attachments": []
   }
 ]
