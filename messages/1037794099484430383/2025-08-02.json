@@ -1246,5 +1246,26 @@
       "j'ai prouvé  avec la carte mdr peut pas faire plus"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400968328612413501",
+    "timestamp": 1754087278274,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Prépare ta 2nde nommination stp. Volvik va pas durer, il a joué les folles en voulant nous isoler, maintenant, la cohabition qu'elle soit PPL ou nous, va bien arriver, je sais juste dans un des deux cas, les gouvernement seront solide, mais y en a un qui sera plus stratège, et bon dans ses choix."
+    ],
+    "attachments": []
   }
 ]
