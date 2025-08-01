@@ -523,5 +523,26 @@
       "-# Youpi, l’homme soja!!<a:LinkHyped:944039838020149299> <a:LinkHyped:944039838020149299>"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400958611789975673",
+    "timestamp": 1754084961603,
+    "author": {
+      "id": "606880443966423235",
+      "username": "ewhczhuo333",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Le Parti Communiste va étudier la possibilité d'une censure du gouvernement Volvik."
+    ],
+    "attachments": []
   }
 ]
