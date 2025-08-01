@@ -405,5 +405,26 @@
       "Oui"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400928196567896155",
+    "timestamp": 1754077710049,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430381",
+      "name": "「💬」𝐃𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "j'espère que le centre se montrera raisonnable pour bloquer le wokisme !"
+    ],
+    "attachments": []
   }
 ]
