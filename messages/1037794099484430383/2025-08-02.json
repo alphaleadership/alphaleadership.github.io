@@ -3306,5 +3306,26 @@
       "Ah bah force, on va avoir un nouveau Pdt, si Willnoff sait pas nommer."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400971862351024402",
+    "timestamp": 1754088120783,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "L’objectif du FLN n’à rien de cknqul luxmander ou quoi"
+    ],
+    "attachments": []
   }
 ]
