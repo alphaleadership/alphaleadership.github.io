@@ -2758,5 +2758,26 @@
       "Je dis même pas ça pour moi vu que mon parti n’à aucun projet d’AN"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400970793583644852",
+    "timestamp": 1754087865969,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Kes votes de confiance c’es tellement le prime"
+    ],
+    "attachments": []
   }
 ]
