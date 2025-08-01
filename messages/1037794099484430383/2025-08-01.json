@@ -3195,5 +3195,26 @@
       "tu compares les allemands aux américains y a rien qui se ressemble de nos jours"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400825835874680902",
+    "timestamp": 1754053305358,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "on est pas allemand, français, chinois, etc que par le sang"
+    ],
+    "attachments": []
   }
 ]
