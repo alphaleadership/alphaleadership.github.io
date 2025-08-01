@@ -3810,5 +3810,26 @@
       "Acte de trou du cul même"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400972411272298596",
+    "timestamp": 1754088251656,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Flemme la politesse"
+    ],
+    "attachments": []
   }
 ]
