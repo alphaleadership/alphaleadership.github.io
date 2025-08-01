@@ -82,5 +82,26 @@
       "GG à nous, <@&1389240427189899366> , on est 3e, on grimpe par rapport aux présidentielles et on est en mesure de participer à un gouvernement avec les libéraux. \nQui veut être député ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400937487068696577",
+    "timestamp": 1754079925077,
+    "author": {
+      "id": "1334850758994169918",
+      "username": "sad__dz",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "bah moi je veux bien écoute"
+    ],
+    "attachments": []
   }
 ]
