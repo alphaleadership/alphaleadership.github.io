@@ -61,5 +61,26 @@
       "moi je peux aider si besoin"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400936634819543121",
+    "timestamp": 1754079721885,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "GG à nous, <@&1389240427189899366> , on est 3e, on grimpe par rapport aux présidentielles et on est en mesure de participer à un gouvernement avec les libéraux. \nQui veut être député ?"
+    ],
+    "attachments": []
   }
 ]
