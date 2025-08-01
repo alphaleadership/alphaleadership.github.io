@@ -124,5 +124,26 @@
       "La grande famille de droite est majoritaire, la cohabitation semble être inéluctable."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400928000270139522",
+    "timestamp": 1754077663248,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Faites moi rire."
+    ],
+    "attachments": []
   }
 ]
