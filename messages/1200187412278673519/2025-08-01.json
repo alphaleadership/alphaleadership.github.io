@@ -355,5 +355,26 @@
       "Merci au PPL d'avoir su faire le bon choix 🦾"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400949272186191972",
+    "timestamp": 1754082734868,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Ce gouvernement s'enfonce encore plus dans la honte. Sans même nous avoir consultés, il nous intègrent à un gouvernement de gauche illégitime auquel nous nous opposons farouchement. Je démissionne immédiatement."
+    ],
+    "attachments": []
   }
 ]
