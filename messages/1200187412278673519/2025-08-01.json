@@ -145,5 +145,26 @@
       "Faites moi rire."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400937251159933019",
+    "timestamp": 1754079868832,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Ce soir est une grande victoire pour le Parti du Peuple Listenbourgeois. Nous entrons avec fracas à l'Assemblée Nationale, et avons empêché la gauche d'avoir une majorité.\nL'heure est maintenant à la responsabilité et à l'union de la droite et du centre pour former un gouvernement cohérent et protecteur."
+    ],
+    "attachments": []
   }
 ]
