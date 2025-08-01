@@ -1216,5 +1216,26 @@
       "c'était long çà"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400743995298152510",
+    "timestamp": 1754033793044,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Nan c'est Renaulié et Jouvet qui ont poussé vers l'UE et l'OTAN. \n\nT'as juste dit que t'étais favorable + c'était dans ton prg, sinon c'est Jouvet et Renaulié qui ont favorisé l'adhésion..."
+    ],
+    "attachments": []
   }
 ]
