@@ -124,5 +124,26 @@
       "a voir avec <@702155370054811658>  et <@879384380152381460>"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400872935597543525",
+    "timestamp": 1754064534807,
+    "author": {
+      "id": "1224729451506700380",
+      "username": "lesbritanniques_53435",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1400495661488672779",
+      "name": "ticket-329"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Pour le partenariat ou le TRM ?"
+    ],
+    "attachments": []
   }
 ]
