@@ -19,5 +19,26 @@
       "<@1224729451506700380>"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400770760838221875",
+    "timestamp": 1754040174446,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1400495661488672779",
+      "name": "ticket-329"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "dans sa bio"
+    ],
+    "attachments": []
   }
 ]
