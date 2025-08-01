@@ -63,5 +63,26 @@
       "-# L'avis de cessation (motion de censure) est en cours de préparation."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400930589561065692",
+    "timestamp": 1754078280583,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "vous allez bloquer le pays en vous alliant aux populistes, très bas de votre part. Vous n'êtes pas poulet ni sanskrit. Vous êtes anglais à la limite."
+    ],
+    "attachments": []
   }
 ]
