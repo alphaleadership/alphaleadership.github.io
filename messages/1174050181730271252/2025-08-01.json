@@ -40,5 +40,26 @@
       "Et dans ma volonté de collaboration"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400948809768501378",
+    "timestamp": 1754082624619,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1174050181730271252",
+      "name": "「🧳」𝐀𝐧𝐧𝐨𝐧𝐜𝐞𝐬-𝐃𝐮-𝐆𝐨𝐮𝐯𝐞𝐫𝐧𝐞𝐦𝐞𝐧𝐭"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Ministre des langues étrangères : <@1036745970077147279> \nPorte parole du gouvernement <@789567269327208459>"
+    ],
+    "attachments": []
   }
 ]
