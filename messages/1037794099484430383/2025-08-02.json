@@ -3579,5 +3579,26 @@
       "Nan, on va anticiper ici. On va poser Delorme mdrr."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400972120300716072",
+    "timestamp": 1754088182283,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "La v2 doit se construire"
+    ],
+    "attachments": []
   }
 ]
