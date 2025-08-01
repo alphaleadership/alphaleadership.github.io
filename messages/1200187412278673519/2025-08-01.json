@@ -229,5 +229,26 @@
       "Monsieur Willinoff a pris la meilleure décision."
     ],
     "attachments": []
+  },
+  {
+    "id": "1400941149841264660",
+    "timestamp": 1754080798350,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Vraiment honteux de nommer le parti qui a gagné les élections, franchement anti-démocratique, anti-républicain, et digne d’un homme-soja malicieux."
+    ],
+    "attachments": []
   }
 ]
