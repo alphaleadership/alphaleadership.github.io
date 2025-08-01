@@ -530,8 +530,10 @@
       "name": "Le Parlement du Listenbourg"
     },
     "content": [
-      "t'as déjà un gouvernement de ôter ?"
+      "t'as déjà un gouvernement de ôter ?",
+      "t'as déjà un gouvernement de prêt ?"
     ],
-    "attachments": []
+    "attachments": [],
+    "editedTimestamp": 1754081313077
   }
 ]
