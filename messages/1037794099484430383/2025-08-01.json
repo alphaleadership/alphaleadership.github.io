@@ -4464,5 +4464,26 @@
       "C’est pour ça que j’entends « légitimité à gouverner », c’est clairement le cas"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400946930133110814",
+    "timestamp": 1754082176479,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Parce que c’est plus clair que d’avoir à penser que les électorats des deux autres formations sont peut-être trop à droite ou trop au centre, intolérants à l’extrême-droite etc"
+    ],
+    "attachments": []
   }
 ]
