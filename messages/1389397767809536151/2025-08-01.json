@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1400928304579739688",
+    "timestamp": 1754077735801,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "les résultats sont plutôt bons non ?"
+    ],
+    "attachments": []
+  }
+]
