@@ -1363,5 +1363,26 @@
       ""
     ],
     "attachments": []
+  },
+  {
+    "id": "1400745834772955146",
+    "timestamp": 1754034231609,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Tris quand il s'agit de taper à tout va sur la gauche et LFI en particulier 🤣"
+    ],
+    "attachments": []
   }
 ]
