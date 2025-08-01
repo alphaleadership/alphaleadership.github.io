@@ -3895,5 +3895,26 @@
       "Tu connais déjà la réponse"
     ],
     "attachments": []
+  },
+  {
+    "id": "1400885115646771294",
+    "timestamp": 1754067438757,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "https://tenor.com/view/star-wars-palpatine-palpachon-gif-13703647"
+    ],
+    "attachments": []
   }
 ]
