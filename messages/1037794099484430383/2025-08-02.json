@@ -12138,5 +12138,26 @@
       "Utilise des termes pour le commun des mortels stp, là tu nous aide pas, on est juste la plèbe."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401305795680796682",
+    "timestamp": 1754167736693,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Doute cartésien 😵‍💫"
+    ],
+    "attachments": []
   }
 ]
