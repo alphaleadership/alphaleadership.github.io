@@ -7092,5 +7092,26 @@
       "La Savoie existe pas 🌚 \n\n- Signé la République."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401244728296476743",
+    "timestamp": 1754153177094,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Ça tombe bien je suis Haut Savoyard"
+    ],
+    "attachments": []
   }
 ]
