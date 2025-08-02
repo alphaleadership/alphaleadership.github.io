@@ -12978,5 +12978,26 @@
       "<@892092107714592839> mais lui il a prévenu"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401307685558812835",
+    "timestamp": 1754168187275,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "mais enft je comprenais pas le parti mdr"
+    ],
+    "attachments": []
   }
 ]
