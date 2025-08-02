@@ -7706,5 +7706,26 @@
       "https://discord.com/channels/1037794097894797442/1200187412278673519/1401292324142710784\n\nOn est bien parti, pour le jeu du gouvernement/parti kamikaze <@532953963591499809> faudrait changer la manière de jeu je pense."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401295511033479319",
+    "timestamp": 1754165284642,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Bah je vous ai fait des offres que vous refusez"
+    ],
+    "attachments": []
   }
 ]
