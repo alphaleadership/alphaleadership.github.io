@@ -7619,5 +7619,26 @@
       "Mais c’est un défaut aussi"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401274865008513217",
+    "timestamp": 1754160362246,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "https://tenor.com/view/thelionking-lionking-mufasa-longlivetheking-scar-gif-20263689"
+    ],
+    "attachments": []
   }
 ]
