@@ -1304,5 +1304,26 @@
       "Le premier ministre contrôle le gouvernement , et vous l'avez"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401305837544407174",
+    "timestamp": 1754167746674,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Même si j'imagine que vous valez mieux que le pitre actuel"
+    ],
+    "attachments": []
   }
 ]
