@@ -943,5 +943,26 @@
       "<@568775627058970635> hé bé je pensais pas"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401253278339170458",
+    "timestamp": 1754155215583,
+    "author": {
+      "id": "782604441437601813",
+      "username": "dacry_0",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "sache que t'es plus mature que des gars qui avaient vraiment 20 ans"
+    ],
+    "attachments": []
   }
 ]
