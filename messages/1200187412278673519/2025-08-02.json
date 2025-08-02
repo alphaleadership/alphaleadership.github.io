@@ -236,5 +236,26 @@
       "Le gouvernement actuel n'est pas légitime auprès de 70% des citoyens"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401295289247076444",
+    "timestamp": 1754165231764,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Alors vous savez que nous avons réuni plus de 40% des suffrages. 100-40=???\nMonsieur Listen démontre sa bétise bétisière en public"
+    ],
+    "attachments": []
   }
 ]
