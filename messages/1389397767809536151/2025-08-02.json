@@ -1052,5 +1052,26 @@
       "De base il n'y avait pas la vice présidence de l'assemble mais je l'ai rajouté car je respecte votre parti et votre candidat présumé à la présidence"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401305344642388000",
+    "timestamp": 1754167629157,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Et pourquoi serait-ce à vous d'avoir l'assemblée ?"
+    ],
+    "attachments": []
   }
 ]
