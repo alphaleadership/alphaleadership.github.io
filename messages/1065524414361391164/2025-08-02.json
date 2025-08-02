@@ -376,5 +376,26 @@
       "ouais c'est les républicains , et des variantes de la droite"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401160799275192360",
+    "timestamp": 1754133166856,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "le Mouvement Républicain du Renouveau"
+    ],
+    "attachments": []
   }
 ]
