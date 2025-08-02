@@ -124,5 +124,26 @@
       "Oh les PLDL venez en voc si vous pouvez on va debriefer"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401286517833470054",
+    "timestamp": 1754163140496,
+    "author": {
+      "id": "1368604399370502165",
+      "username": "wilson.jbis_81187",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Oui j'entame des discussions avec S.V, peut-être qui reviendront à la raison"
+    ],
+    "attachments": []
   }
 ]
