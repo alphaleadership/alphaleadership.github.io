@@ -1003,9 +1003,11 @@
       "name": "Le Parlement du Listenbourg"
     },
     "content": [
-      "Des gens sur ce serv ont un an moins que toi"
+      "Des gens sur ce serv ont un an moins que toi",
+      "Des gens sur ce serv ont juste un an moins que toi"
     ],
-    "attachments": []
+    "attachments": [],
+    "editedTimestamp": 1754160270586
   },
   {
     "id": "1401274437248090173",
