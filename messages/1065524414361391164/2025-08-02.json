@@ -544,5 +544,26 @@
       "Nan nan stage de base pas 3e ni 2nd"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401162603551526914",
+    "timestamp": 1754133597029,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "C'était un stage en plus ?"
+    ],
+    "attachments": []
   }
 ]
