@@ -12222,5 +12222,26 @@
       "Après ça depend si il vous en a fait"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401306013512105984",
+    "timestamp": 1754167788628,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Épinglez ce message la team, première fois que Rg dit un truc positif dans ce chat."
+    ],
+    "attachments": []
   }
 ]
