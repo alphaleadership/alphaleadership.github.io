@@ -208,5 +208,26 @@
       "tant que je peux déposer ma candidature à temps"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401286698062843999",
+    "timestamp": 1754163183466,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "à mon avis la seule alliance possible c'est entre nous , viens voc pour en discuter stv"
+    ],
+    "attachments": []
   }
 ]
