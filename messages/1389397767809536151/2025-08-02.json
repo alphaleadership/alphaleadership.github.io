@@ -840,5 +840,26 @@
       "Surement que j'oublie des choses"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401304093292757055",
+    "timestamp": 1754167330812,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Vous avez ce que vous voulez à part les ministères qu'on a réservé , c'est plus qu'honnête"
+    ],
+    "attachments": []
   }
 ]
