@@ -7979,5 +7979,26 @@
       "Fais pas genre"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401296511849074749",
+    "timestamp": 1754165523255,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Après ptet aux autres hein. Moi je sais juste, ce que je t'es dit en mp, t'as pas voulu."
+    ],
+    "attachments": []
   }
 ]
