@@ -11378,5 +11378,26 @@
       "Je pense pas en vrai...mais azy gardons espoir..."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401304380984131684",
+    "timestamp": 1754167399403,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "On refait 70 fois l’élection vous gagnez pas"
+    ],
+    "attachments": []
   }
 ]
