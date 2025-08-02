@@ -19,5 +19,26 @@
       "<@1218938070246883399> tu veux être député ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401124369903648959",
+    "timestamp": 1754124481417,
+    "author": {
+      "id": "1218938070246883399",
+      "username": "je_suis_la_porte",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Salut"
+    ],
+    "attachments": []
   }
 ]
