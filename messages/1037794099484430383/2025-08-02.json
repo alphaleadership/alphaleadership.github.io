@@ -12747,5 +12747,26 @@
       "Bah quand on dit sans élections"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401307118895890504",
+    "timestamp": 1754168052172,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "On peut oenser à un coup d’état"
+    ],
+    "attachments": []
   }
 ]
