@@ -8637,5 +8637,26 @@
       "On a autre chose à faire quand même mdr"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401298781210804465",
+    "timestamp": 1754166064313,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Y’a pas 10000 manières d’éviter une censure"
+    ],
+    "attachments": []
   }
 ]
