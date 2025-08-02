@@ -1134,5 +1134,26 @@
       "Sachant qu’ils ont seulement un an de moins"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401306501993332872",
+    "timestamp": 1754167905091,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "🤮"
+    ],
+    "attachments": []
   }
 ]
