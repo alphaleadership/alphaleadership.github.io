@@ -5431,5 +5431,26 @@
       "Ok bah le SV perds 2 député dans cette config."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401162498471759942",
+    "timestamp": 1754133571976,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Je pensais 19, car on devait pas rajouter 2 députés pour les outre-mer là, mais bref."
+    ],
+    "attachments": []
   }
 ]
