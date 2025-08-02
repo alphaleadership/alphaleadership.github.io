@@ -12957,5 +12957,26 @@
       "<@568775627058970635> (qui est parti sans prévenir mais bon on ba pas lui en vouloir)"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401307593816932503",
+    "timestamp": 1754168165402,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "<@892092107714592839> mais lui il a prévenu"
+    ],
+    "attachments": []
   }
 ]
