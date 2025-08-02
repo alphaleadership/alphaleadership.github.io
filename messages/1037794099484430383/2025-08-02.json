@@ -11252,5 +11252,26 @@
       ""
     ],
     "attachments": []
+  },
+  {
+    "id": "1401304156349665281",
+    "timestamp": 1754167345846,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Je me plainds pas pour le coup, je dis juste, que je pense qu'on a les moyens de finir 1er."
+    ],
+    "attachments": []
   }
 ]
