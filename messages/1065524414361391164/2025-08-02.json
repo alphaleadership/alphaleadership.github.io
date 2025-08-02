@@ -334,5 +334,26 @@
       "Et je suis dans le mouvement d'une candidate pour la présidence des jeunes LR , et un autre le MRR qui inclue des jeunes LR , de droite , ceux de Lisnard ect"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401160612792373388",
+    "timestamp": 1754133122395,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Qui inclut ceux de Lisnard ?"
+    ],
+    "attachments": []
   }
 ]
