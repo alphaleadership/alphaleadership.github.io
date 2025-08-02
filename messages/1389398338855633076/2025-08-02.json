@@ -397,5 +397,26 @@
       "vas-y"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401287147104763904",
+    "timestamp": 1754163290526,
+    "author": {
+      "id": "1368604399370502165",
+      "username": "wilson.jbis_81187",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "<@789567269327208459> je te dm pour entamer les négos"
+    ],
+    "attachments": []
   }
 ]
