@@ -712,5 +712,26 @@
       "Moi nn plus"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401299027097681960",
+    "timestamp": 1754166122937,
+    "author": {
+      "id": "1368604399370502165",
+      "username": "wilson.jbis_81187",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Et on a pas reçu les rôles..."
+    ],
+    "attachments": []
   }
 ]
