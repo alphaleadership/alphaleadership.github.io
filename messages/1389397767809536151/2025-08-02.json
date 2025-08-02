@@ -1241,5 +1241,26 @@
       "Vous gardez tout ce qui permettra de nous controller"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401305720296575158",
+    "timestamp": 1754167718720,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "En aucun cas"
+    ],
+    "attachments": []
   }
 ]
