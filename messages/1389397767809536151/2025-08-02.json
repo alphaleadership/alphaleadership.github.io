@@ -672,5 +672,26 @@
       "Lemu a même dit qu'il était d'accord"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401302100318617721",
+    "timestamp": 1754166855650,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Honnêtement vous nous devez au moins la présidence de l'assemblée ou le poste de premier ministre. Et c'est le grand minimum."
+    ],
+    "attachments": []
   }
 ]
