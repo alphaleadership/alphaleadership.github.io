@@ -103,5 +103,26 @@
       "https://discord.com/channels/1037794097894797442/1047809434245673031/1400131393018921120\nSH a autant de votes que vos 2 partis et vous criez à l'illégitimité 🤣 🤣 🤣"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401123707254214666",
+    "timestamp": 1754124323429,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1038792936491597904",
+      "name": "「🎥」𝐌𝐞𝐝𝐢𝐚-𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "(ces votes comptent pas)"
+    ],
+    "attachments": []
   }
 ]
