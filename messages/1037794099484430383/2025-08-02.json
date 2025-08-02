@@ -5578,5 +5578,26 @@
       "Oui mais au vu des précédents dans le serv, ils vous seront pas favorable, et si on se base sur ces élections, avec le double de votant, PLDL-PPL est premier."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401165853268906085",
+    "timestamp": 1754134371822,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "*premier + majoritaire au Parlement."
+    ],
+    "attachments": []
   }
 ]
