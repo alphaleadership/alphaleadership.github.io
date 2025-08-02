@@ -5620,5 +5620,26 @@
       "Faudra bien l'installer dans un fauteuil avant de lui annoncer les résultats."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401166028376903811",
+    "timestamp": 1754134413571,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Et prévoir des médicaments ainsi qu'une ambulance."
+    ],
+    "attachments": []
   }
 ]
