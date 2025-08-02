@@ -565,5 +565,26 @@
       "C'était un stage en plus ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401162669737902120",
+    "timestamp": 1754133612809,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Pour apprendre le boulot d'un député ?"
+    ],
+    "attachments": []
   }
 ]
