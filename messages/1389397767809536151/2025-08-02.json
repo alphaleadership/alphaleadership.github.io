@@ -1346,5 +1346,26 @@
       "euh non"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401305873116168282",
+    "timestamp": 1754167755155,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "il n'y a pas eu de négociations à partir de ces propositions"
+    ],
+    "attachments": []
   }
 ]
