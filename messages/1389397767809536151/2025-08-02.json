@@ -229,5 +229,26 @@
       "Est ce que je candidate pour la présidence de l'assemblée"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401293577262465108",
+    "timestamp": 1754164823595,
+    "author": {
+      "id": "1334850758994169918",
+      "username": "sad__dz",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Oui vas-y"
+    ],
+    "attachments": []
   }
 ]
