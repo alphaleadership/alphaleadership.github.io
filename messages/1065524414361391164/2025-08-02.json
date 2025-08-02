@@ -712,5 +712,26 @@
       "La candidate c’est Brisson ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401193005041582200",
+    "timestamp": 1754140845309,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Ouais"
+    ],
+    "attachments": []
   }
 ]
