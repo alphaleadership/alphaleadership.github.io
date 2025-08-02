@@ -838,5 +838,26 @@
       "Ça serait fait pendant la nuit"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401299885910921328",
+    "timestamp": 1754166327694,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Kurzenwald, après dites-moi si vous mettez qqun d'autre, j'ai juste pris sur la liste"
+    ],
+    "attachments": []
   }
 ]
