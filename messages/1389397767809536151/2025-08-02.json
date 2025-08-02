@@ -1325,5 +1325,26 @@
       "Même si j'imagine que vous valez mieux que le pitre actuel"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401305838487998474",
+    "timestamp": 1754167746899,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "euh non"
+    ],
+    "attachments": []
   }
 ]
