@@ -9122,5 +9122,26 @@
       "Oe ducoup je suis compréhensible pour les autres."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401300398928826378",
+    "timestamp": 1754166450007,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Hmmm...oe oe. Mais, moi je dis qu'il fasse pas \"le tocard\" et joue le vote de confiance."
+    ],
+    "attachments": []
   }
 ]
