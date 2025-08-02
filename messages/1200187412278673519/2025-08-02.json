@@ -257,5 +257,26 @@
       "Alors vous savez que nous avons réuni plus de 40% des suffrages. 100-40=???\nMonsieur Listen démontre sa bétise bétisière en public"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401301989819682829",
+    "timestamp": 1754166829305,
+    "author": {
+      "id": "1036745970077147279",
+      "username": "lemu321",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Les gauchistes modérés ne veulent pas des communistes et les communistes extrémistes ne veulent pas des socialistes modérés"
+    ],
+    "attachments": []
   }
 ]
