@@ -4610,5 +4610,26 @@
       "Ça, tu n’en sais rien."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401158697182433401",
+    "timestamp": 1754132665678,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Je sais ce que je dis...on a tout notre temps. Dépend des enjeux, et des volontés de chacun, et des réactions de tous, mais on a tout notre temps, et Volvik devrait pour le coup ne pas partir en kamikaze ou forcené, et tenter le coup, ça peut lui être bénef pour la suite, à voir..."
+    ],
+    "attachments": []
   }
 ]
