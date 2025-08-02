@@ -334,5 +334,26 @@
       "(on vous propose le manoir des consuls , le ministère de l'intérieur au minimum et même la vice présidence de la chambre s'il faut)"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401295961485217862",
+    "timestamp": 1754165392038,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      ""
+    ],
+    "attachments": []
   }
 ]
