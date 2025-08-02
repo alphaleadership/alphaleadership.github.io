@@ -271,5 +271,26 @@
       "Bah ils ont pas de majorité absolue"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401286894779760750",
+    "timestamp": 1754163230367,
+    "author": {
+      "id": "1368604399370502165",
+      "username": "wilson.jbis_81187",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "On votera la censure si ils écoutent pas <@789567269327208459> ."
+    ],
+    "attachments": []
   }
 ]
