@@ -544,5 +544,26 @@
       "Nous annoncons la censure de tout gouvernement de gauche, peu importe sa composition"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401298161783410738",
+    "timestamp": 1754165916630,
+    "author": {
+      "id": "1368604399370502165",
+      "username": "wilson.jbis_81187",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "<@&1389240842019012628>"
+    ],
+    "attachments": []
   }
 ]
