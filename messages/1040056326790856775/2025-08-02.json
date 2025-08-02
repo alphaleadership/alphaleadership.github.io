@@ -82,5 +82,26 @@
       "Juste un militant hyper arrogant du RN."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401157141263290469",
+    "timestamp": 1754132294718,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1040056326790856775",
+      "name": "「💬」𝐃𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧-𝐂𝐂"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Xénophobe, antisémite, eugéniste"
+    ],
+    "attachments": []
   }
 ]
