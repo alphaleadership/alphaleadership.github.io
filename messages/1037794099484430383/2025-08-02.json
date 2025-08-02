@@ -10132,5 +10132,26 @@
       "Salopard"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401302374575902840",
+    "timestamp": 1754166921038,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Aujourd’hui, ça n’a plus le même sens"
+    ],
+    "attachments": []
   }
 ]
