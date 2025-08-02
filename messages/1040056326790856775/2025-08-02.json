@@ -61,5 +61,26 @@
       "Non, quand même pas."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401153905387241483",
+    "timestamp": 1754131523225,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1040056326790856775",
+      "name": "「💬」𝐃𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧-𝐂𝐂"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Juste un militant hyper arrogant du RN."
+    ],
+    "attachments": []
   }
 ]
