@@ -187,5 +187,26 @@
       "(ils sont alliés avec le PCL, je dis ça je dis rien)"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401286616609456149",
+    "timestamp": 1754163164046,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "tant que je peux déposer ma candidature à temps"
+    ],
+    "attachments": []
   }
 ]
