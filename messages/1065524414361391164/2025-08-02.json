@@ -82,5 +82,26 @@
       "sans ping"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401154235554595017",
+    "timestamp": 1754131601943,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Et nous le dire avant 😭"
+    ],
+    "attachments": []
   }
 ]
