@@ -630,5 +630,26 @@
       "Wilson s'est trompé"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401300401134768168",
+    "timestamp": 1754166450533,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "la seule chose qu'on conserve c'est la présidence de l'assemblée , c'est vraiment honnête quand même"
+    ],
+    "attachments": []
   }
 ]
