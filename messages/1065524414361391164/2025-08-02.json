@@ -1386,5 +1386,26 @@
       "jeunes communistes"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401311643014664252",
+    "timestamp": 1754169130806,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "lyon oui"
+    ],
+    "attachments": []
   }
 ]
