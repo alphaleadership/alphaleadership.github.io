@@ -523,5 +523,26 @@
       "A donc tu as fait ton stage de troisième avec elle."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401162237439115264",
+    "timestamp": 1754133509741,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Nan nan stage de base pas 3e ni 2nd"
+    ],
+    "attachments": []
   }
 ]
