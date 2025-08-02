@@ -1262,5 +1262,26 @@
       "En aucun cas"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401305776336928779",
+    "timestamp": 1754167732081,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "J'ai du mal à vous faire confiance"
+    ],
+    "attachments": []
   }
 ]
