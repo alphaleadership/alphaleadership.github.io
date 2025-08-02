@@ -1073,5 +1073,26 @@
       "Et pourquoi serait-ce à vous d'avoir l'assemblée ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401305411864363098",
+    "timestamp": 1754167645184,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Vous nous laissez juste les miettes"
+    ],
+    "attachments": []
   }
 ]
