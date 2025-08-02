@@ -313,5 +313,26 @@
       "On est en position de force car on est le 3ème parti qui fera basculer les votes, on peut se placer en arbitre."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401294474818097283",
+    "timestamp": 1754165037589,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "(on vous propose le manoir des consuls , le ministère de l'intérieur au minimum et même la vice présidence de la chambre s'il faut)"
+    ],
+    "attachments": []
   }
 ]
