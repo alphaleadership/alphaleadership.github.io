@@ -5011,5 +5011,26 @@
       "Un blocage institutionnelle pour pousser à une dissolution fait parti de ces possibilités."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401161070684409888",
+    "timestamp": 1754133231565,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Tout comme un isolement du PLDL, qui risque pas de durer finalement, et entraînera un effet domino.."
+    ],
+    "attachments": []
   }
 ]
