@@ -861,5 +861,26 @@
       "Vous avez ce que vous voulez à part les ministères qu'on a réservé , c'est plus qu'honnête"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401304149790031944",
+    "timestamp": 1754167344282,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Laissez nous les affaires étrangères"
+    ],
+    "attachments": []
   }
 ]
