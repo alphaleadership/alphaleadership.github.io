@@ -733,5 +733,26 @@
       "Et on a pas reçu les rôles..."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401299075818590239",
+    "timestamp": 1754166134553,
+    "author": {
+      "id": "1167594421555036262",
+      "username": "shiro._.akami",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "vrai"
+    ],
+    "attachments": []
   }
 ]
