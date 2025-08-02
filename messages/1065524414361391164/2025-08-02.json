@@ -1764,5 +1764,26 @@
       "aie aie aie"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401322228305367131",
+    "timestamp": 1754171654536,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Moi je ne suis pas un dictateur en puissance, au moins."
+    ],
+    "attachments": []
   }
 ]
