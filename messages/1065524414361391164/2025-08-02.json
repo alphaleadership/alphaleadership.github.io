@@ -1596,5 +1596,26 @@
       "si"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401312473973264606",
+    "timestamp": 1754169328922,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Non"
+    ],
+    "attachments": []
   }
 ]
