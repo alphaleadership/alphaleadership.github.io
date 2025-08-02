@@ -418,5 +418,26 @@
       "Ça inclut Nouvelle Énergie ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401161001155690526",
+    "timestamp": 1754133214988,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Ouais , en gros ceux qui sont de droite peuvent venir , y'a même des Ciotti pour te dire et un peu de macron"
+    ],
+    "attachments": []
   }
 ]
