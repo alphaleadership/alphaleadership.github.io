@@ -5599,5 +5599,26 @@
       "*premier + majoritaire au Parlement."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401165925494952097",
+    "timestamp": 1754134389042,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Faudra bien l'installer dans un fauteuil avant de lui annoncer les résultats."
+    ],
+    "attachments": []
   }
 ]
