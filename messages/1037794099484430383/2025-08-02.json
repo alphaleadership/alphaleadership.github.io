@@ -6147,5 +6147,26 @@
       "Encore une fois, tu viens de perdre cette campagne."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401168446582030519",
+    "timestamp": 1754134990116,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Prouve-le pour la prochaine."
+    ],
+    "attachments": []
   }
 ]
