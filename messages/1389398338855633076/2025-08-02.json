@@ -481,5 +481,26 @@
       "y'a quoi ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401287530619338804",
+    "timestamp": 1754163381963,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "tu avais pas l'accord du parti pour venir me voir et commencer les négos ?"
+    ],
+    "attachments": []
   }
 ]
