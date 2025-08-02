@@ -5368,5 +5368,26 @@
       "Il faudrait beaucoup plus de votants total pour qu’il y ait un véritable impact"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401162310281854986",
+    "timestamp": 1754133527108,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "En notre faveur sûrement"
+    ],
+    "attachments": []
   }
 ]
