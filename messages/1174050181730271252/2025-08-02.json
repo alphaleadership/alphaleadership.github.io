@@ -63,5 +63,26 @@
       "Ah oui et <@1212431738219925568> ministre de l'intérieur"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401239697346396260",
+    "timestamp": 1754151977622,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1174050181730271252",
+      "name": "「🧳」𝐀𝐧𝐧𝐨𝐧𝐜𝐞𝐬-𝐃𝐮-𝐆𝐨𝐮𝐯𝐞𝐫𝐧𝐞𝐦𝐞𝐧𝐭"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Démission de <@1036745970077147279>"
+    ],
+    "attachments": []
   }
 ]
