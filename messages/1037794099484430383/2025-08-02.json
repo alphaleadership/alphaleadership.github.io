@@ -7811,5 +7811,26 @@
       "Y’a des gens qui pensent que Macron aurait dû nommer le NFP l’an dernier ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401295910272766114",
+    "timestamp": 1754165379828,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Frère vous me ghostez"
+    ],
+    "attachments": []
   }
 ]
