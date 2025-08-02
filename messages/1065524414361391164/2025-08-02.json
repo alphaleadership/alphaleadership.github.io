@@ -1344,5 +1344,26 @@
       "gaucho sans démocratie, c'est bien science Po t'as bien formé toi"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401311555077013636",
+    "timestamp": 1754169109840,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "il est à science po ?"
+    ],
+    "attachments": []
   }
 ]
