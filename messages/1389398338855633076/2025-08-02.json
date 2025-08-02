@@ -586,5 +586,26 @@
       "absolument"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401298711849468075",
+    "timestamp": 1754166047776,
+    "author": {
+      "id": "1167594421555036262",
+      "username": "shiro._.akami",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "je refuse de céder l'économie nationale à ces socialos gauchistes sans majorité"
+    ],
+    "attachments": []
   }
 ]
