@@ -292,5 +292,26 @@
       "Leur proposition est pas assez intéressante !\nIls veulent juste qu'on vote pour eux sans proposer de poste intéressant en retour."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401294293636874240",
+    "timestamp": 1754164994392,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "On est en position de force car on est le 3ème parti qui fera basculer les votes, on peut se placer en arbitre."
+    ],
+    "attachments": []
   }
 ]
