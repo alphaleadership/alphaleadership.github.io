@@ -4484,5 +4484,26 @@
       "C’est l’hôpital qui se moque de la charité"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401158014714773536",
+    "timestamp": 1754132502965,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Du moment où vous sous-estimez vos adversaires, c'est là que vous vous tirer une balle dans le pied."
+    ],
+    "attachments": []
   }
 ]
