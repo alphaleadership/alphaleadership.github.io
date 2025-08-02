@@ -145,5 +145,26 @@
       "Oui j'entame des discussions avec S.V, peut-être qui reviendront à la raison"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401286550234599484",
+    "timestamp": 1754163148221,
+    "author": {
+      "id": "1368604399370502165",
+      "username": "wilson.jbis_81187",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Mais je vais voir avec le PPL"
+    ],
+    "attachments": []
   }
 ]
