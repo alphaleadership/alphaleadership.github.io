@@ -5662,5 +5662,26 @@
       "Ça n’a pas de sens de dire « premier »"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401166120605585559",
+    "timestamp": 1754134435560,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Vous n’étiez, avant le vote, pas une seule et même force."
+    ],
+    "attachments": []
   }
 ]
