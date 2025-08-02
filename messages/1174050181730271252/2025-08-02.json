@@ -105,5 +105,26 @@
       "<@&1037796999963103273> je demande à tout les candidats à la présidence de l'assemblée de se déclarer avant demain 15h"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401284349114187807",
+    "timestamp": 1754162623433,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1174050181730271252",
+      "name": "「🧳」𝐀𝐧𝐧𝐨𝐧𝐜𝐞𝐬-𝐃𝐮-𝐆𝐨𝐮𝐯𝐞𝐫𝐧𝐞𝐦𝐞𝐧𝐭"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "et qui es tu pour le demander ?"
+    ],
+    "attachments": []
   }
 ]
