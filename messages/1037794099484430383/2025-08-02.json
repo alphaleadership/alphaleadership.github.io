@@ -12936,5 +12936,26 @@
       "En plus on a vrmt perdu deux membres"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401307569800089623",
+    "timestamp": 1754168159676,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "<@568775627058970635> (qui est parti sans prévenir mais bon on ba pas lui en vouloir)"
+    ],
+    "attachments": []
   }
 ]
