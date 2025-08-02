@@ -1449,5 +1449,26 @@
       "ah oui je pensais"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401311733666283520",
+    "timestamp": 1754169152419,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "critiquer les opinions des autres, c'est justement ça la démocratie"
+    ],
+    "attachments": []
   }
 ]
