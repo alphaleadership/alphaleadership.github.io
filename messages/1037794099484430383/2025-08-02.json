@@ -10468,5 +10468,26 @@
       "En effet"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401302682685280317",
+    "timestamp": 1754166994497,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Moi je fais le vote de confiance"
+    ],
+    "attachments": []
   }
 ]
