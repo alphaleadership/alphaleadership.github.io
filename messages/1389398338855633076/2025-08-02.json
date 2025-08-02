@@ -19,5 +19,26 @@
       "Oui"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401281697424867328",
+    "timestamp": 1754161991221,
+    "author": {
+      "id": "1368604399370502165",
+      "username": "wilson.jbis_81187",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Je vais lancer des discussions avec la présidence. Si il refuse, censure immédiate"
+    ],
+    "attachments": []
   }
 ]
