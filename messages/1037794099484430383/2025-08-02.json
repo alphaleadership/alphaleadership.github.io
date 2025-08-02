@@ -5746,5 +5746,26 @@
       "Bref arrêtons de parler de ça là, le plus croustillant est à venir <@879384380152381460> ça va faire une partie d'échecs en 5D <:risitasperruque:1066713649793728613>"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401167164941140010",
+    "timestamp": 1754134684549,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "À quand la première séance de la chambre enft."
+    ],
+    "attachments": []
   }
 ]
