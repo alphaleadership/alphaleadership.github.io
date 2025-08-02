@@ -1533,5 +1533,26 @@
       "jsp"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401312248797855906",
+    "timestamp": 1754169275236,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Pourquoi communiste ?"
+    ],
+    "attachments": []
   }
 ]
