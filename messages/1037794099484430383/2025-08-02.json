@@ -6546,5 +6546,26 @@
       "Si t’en es si capable, ça ne devrait pas de te déranger de le prouver à la prochaine occasion."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401169372936147035",
+    "timestamp": 1754135210976,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Mais bon, apparemment, ce n’est pas dans tes projets."
+    ],
+    "attachments": []
   }
 ]
