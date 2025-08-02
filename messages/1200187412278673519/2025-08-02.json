@@ -40,5 +40,33 @@
       "Le PPL a toujours combattu la gauche"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401266923563647116",
+    "timestamp": 1754158468858,
+    "author": {
+      "id": "861329569117765652",
+      "username": "raichu0000_",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Quand je vois qui est le président et le PM"
+    ],
+    "attachments": [
+      {
+        "id": "1401266923148415017",
+        "name": "IMG_6146.jpg",
+        "url": "https://cdn.discordapp.com/attachments/1200187412278673519/1401266923148415017/IMG_6146.jpg?ex=688fa704&is=688e5584&hm=6db648527d234a448c13fca664fa9f6dd03c614fb52ed1d99f757418ff0a58ea&",
+        "contentType": "image/jpeg"
+      }
+    ]
   }
 ]
