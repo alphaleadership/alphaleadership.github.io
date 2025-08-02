@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1401123494539821127",
+    "timestamp": 1754124272714,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "<@1218938070246883399> tu veux être député ?"
+    ],
+    "attachments": []
+  }
+]
