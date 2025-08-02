@@ -19,5 +19,26 @@
       "La droite a obtenue une majorité absolue. Mon collègue Georges Simon et moi-même avons démissioné de notre poste de ministre par signe de protestation envers un gouvernement minoritaire"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401239227055738942",
+    "timestamp": 1754151865496,
+    "author": {
+      "id": "1036745970077147279",
+      "username": "lemu321",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Le PPL a toujours combattu la gauche"
+    ],
+    "attachments": []
   }
 ]
