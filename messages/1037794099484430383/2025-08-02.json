@@ -4927,5 +4927,26 @@
       "Et tu ne t’en rends pas compte."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401160347330805820",
+    "timestamp": 1754133059104,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Si PPL et PLDL s'étaient alliés ç'aurait été très serré\nOn aurait eu le même score (23/50) et les campagnes auraient peu changé le résultat final\nMais je pense pas que le PCL aurait accepté la droite comme dirigeants"
+    ],
+    "attachments": []
   }
 ]
