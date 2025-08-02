@@ -4733,9 +4733,11 @@
       "name": "Le Parlement du Listenbourg"
     },
     "content": [
-      "Si c’est le cas, vous tomberez sous les coups d’uns dissolution."
+      "Si c’est le cas, vous tomberez sous les coups d’uns dissolution.",
+      "Si c’est le cas, vous tomberez sous les coups d’une dissolution."
     ],
-    "attachments": []
+    "attachments": [],
+    "editedTimestamp": 1754132864883
   },
   {
     "id": "1401159516149776486",
