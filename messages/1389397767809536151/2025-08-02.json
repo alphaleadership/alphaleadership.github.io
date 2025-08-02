@@ -166,5 +166,26 @@
       "Oui c'est bien"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401238049630978069",
+    "timestamp": 1754151584776,
+    "author": {
+      "id": "1036745970077147279",
+      "username": "lemu321",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "J'ai démissionné"
+    ],
+    "attachments": []
   }
 ]
