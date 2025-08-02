@@ -299,5 +299,26 @@
       "J’aime les gens qui ont un vocabulaire pauvre. Ne vous sentez surtout pas visés."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401302956711612488",
+    "timestamp": 1754167059830,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Vote de confiance doit avoir lieu.\nL’assemblé votée par le peuple choisira s’ils acceptent ou non ce gouvernement. \nLa démocratie l’emportera,\nSi la démocratie souhaite ce gouvernement,  alors sa légitimité n’est plus à remettre en cause.\nLe contraire est également valable."
+    ],
+    "attachments": []
   }
 ]
