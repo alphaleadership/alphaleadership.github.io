@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1401153664571150367",
+    "timestamp": 1754131465810,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1040056326790856775",
+      "name": "「💬」𝐃𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧-𝐂𝐂"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "J’avais pas vu alors mb"
+    ],
+    "attachments": []
+  }
+]
