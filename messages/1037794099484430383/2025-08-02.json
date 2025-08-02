@@ -8912,5 +8912,26 @@
       "Fait moi confiance, je suis ton homme."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401299483303612556",
+    "timestamp": 1754166231705,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "T'as 2 choix :\n\nSoit t'acceptes les concessions, soit t'acceptes le vote de confiance, t'auras rien à perdre."
+    ],
+    "attachments": []
   }
 ]
