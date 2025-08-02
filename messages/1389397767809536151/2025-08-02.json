@@ -604,8 +604,10 @@
       "name": "Le Parlement du Listenbourg"
     },
     "content": [
-      "c'est pas ce que wilson a propos"
+      "c'est pas ce que wilson a propos",
+      "c'est pas ce que wilson a proposé"
     ],
-    "attachments": []
+    "attachments": [],
+    "editedTimestamp": 1754166361845
   }
 ]
