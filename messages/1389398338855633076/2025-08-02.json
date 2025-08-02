@@ -418,5 +418,26 @@
       "<@789567269327208459> je te dm pour entamer les négos"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401287196954198067",
+    "timestamp": 1754163302411,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "mais"
+    ],
+    "attachments": []
   }
 ]
