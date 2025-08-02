@@ -4885,5 +4885,26 @@
       "Non, non, je sais que t'as une stratégie, mais nous aussi on en a une, et je pense qu'à la fin vous devrez acceptez de faire ami-ami."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401160125133094912",
+    "timestamp": 1754133006128,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Tu me prends vraiment pour plus bête que je ne suis."
+    ],
+    "attachments": []
   }
 ]
