@@ -1136,5 +1136,26 @@
       "Et gardez ce que vous convoitiez déjà"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401305518500221108",
+    "timestamp": 1754167670608,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "C'est vrai que premier ministre , intérieur , justice , armé etc ce sont des miettes"
+    ],
+    "attachments": []
   }
 ]
