@@ -609,5 +609,26 @@
     ],
     "attachments": [],
     "editedTimestamp": 1754166361845
+  },
+  {
+    "id": "1401300276266274886",
+    "timestamp": 1754166420762,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Wilson s'est trompé"
+    ],
+    "attachments": []
   }
 ]
