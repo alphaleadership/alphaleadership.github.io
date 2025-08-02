@@ -5452,5 +5452,26 @@
       "Je pensais 19, car on devait pas rajouter 2 députés pour les outre-mer là, mais bref."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401162634690035713",
+    "timestamp": 1754133604453,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "El déni"
+    ],
+    "attachments": []
   }
 ]
