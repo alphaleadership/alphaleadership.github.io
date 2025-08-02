@@ -12915,5 +12915,26 @@
       "https://discord.com/channels/1037794097894797442/1389398338855633076/1401298129722151065\n\nForce à toi <@532953963591499809> passe pas par le vote de confiance finalement."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401307469057363979",
+    "timestamp": 1754168135657,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "En plus on a vrmt perdu deux membres"
+    ],
+    "attachments": []
   }
 ]
