@@ -7407,5 +7407,26 @@
       "Mais Charles X est un con"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401258604153016370",
+    "timestamp": 1754156485356,
+    "author": {
+      "id": "901403507519791105",
+      "username": "butterlord2243",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Et Louis XVIII un incompétent"
+    ],
+    "attachments": []
   }
 ]
