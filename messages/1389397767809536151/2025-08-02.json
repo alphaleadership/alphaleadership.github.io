@@ -966,5 +966,26 @@
       "Vous nous prenez pour qui à pas vouloir négocier"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401304491344527411",
+    "timestamp": 1754167425715,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "On a déjà énormément négocié hein"
+    ],
+    "attachments": []
   }
 ]
