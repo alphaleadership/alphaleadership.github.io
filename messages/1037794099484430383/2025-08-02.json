@@ -4822,5 +4822,26 @@
       "Pas sûr, tu me prends pour plus bête que je ne le suis."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401159658445738035",
+    "timestamp": 1754132894861,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Stratégie voulue, stratégie à assumer."
+    ],
+    "attachments": []
   }
 ]
