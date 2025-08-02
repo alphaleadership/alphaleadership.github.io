@@ -9332,5 +9332,26 @@
       "J'ai vu, mais tap-in quand même. Après j'ai pas dit que t'es guez aussi, c'est Rg qui a sorti ton blaze."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401300870632837272",
+    "timestamp": 1754166562470,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Ils ont sucé 2 partis pour faire alliance quand meme"
+    ],
+    "attachments": []
   }
 ]
