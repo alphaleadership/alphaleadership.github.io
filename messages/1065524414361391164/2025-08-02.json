@@ -1302,5 +1302,26 @@
       "ouais mais JC c'est quoi"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401311308670046248",
+    "timestamp": 1754169051092,
+    "author": {
+      "id": "782604441437601813",
+      "username": "dacry_0",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "on s'en fout de ton opinion chacun fait ce qu'il veut"
+    ],
+    "attachments": []
   }
 ]
