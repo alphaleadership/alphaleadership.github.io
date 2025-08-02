@@ -607,5 +607,26 @@
       "oui"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401162832170582127",
+    "timestamp": 1754133651536,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "de député , des assistants avec elle etc"
+    ],
+    "attachments": []
   }
 ]
