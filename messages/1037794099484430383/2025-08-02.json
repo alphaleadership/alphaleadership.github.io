@@ -7470,5 +7470,26 @@
       "*plus qu'obèse"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401274302585896960",
+    "timestamp": 1754160228154,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Sur quoi exactement ?\nÇa m’intéressé de voir la vision des gens sur certaines de mes \"compétences\" c’est pas le mot mais t’as capté"
+    ],
+    "attachments": []
   }
 ]
