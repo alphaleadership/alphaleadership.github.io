@@ -19,5 +19,26 @@
       "Camarades, le PCL entre au gouvernement en l'échange d'une non censure"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401226076465659945",
+    "timestamp": 1754148730151,
+    "author": {
+      "id": "606880443966423235",
+      "username": "ewhczhuo333",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398070998990930",
+      "name": "🔨parti-communiste-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "J'ai demandé le ministère de l'extérieur histoire de remettre de l'ordre dans la politique du Listenbourg en la matière"
+    ],
+    "attachments": []
   }
 ]
