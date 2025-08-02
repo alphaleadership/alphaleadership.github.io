@@ -166,5 +166,26 @@
       "Mais je vais voir avec le PPL"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401286613669122079",
+    "timestamp": 1754163163345,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "(ils sont alliés avec le PCL, je dis ça je dis rien)"
+    ],
+    "attachments": []
   }
 ]
