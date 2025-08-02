@@ -1514,5 +1514,26 @@
       "j'ai pas dis engagement , mais on a fait évoluer nos proportions en votre  sens"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401306198073934007",
+    "timestamp": 1754167832631,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "donc la proposition présentée ci dessus est bien plus intéressante que la première , nous en avons discuter en interne"
+    ],
+    "attachments": []
   }
 ]
