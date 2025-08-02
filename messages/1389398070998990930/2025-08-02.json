@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1401225993988870245",
+    "timestamp": 1754148710487,
+    "author": {
+      "id": "606880443966423235",
+      "username": "ewhczhuo333",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398070998990930",
+      "name": "🔨parti-communiste-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Camarades, le PCL entre au gouvernement en l'échange d'une non censure"
+    ],
+    "attachments": []
+  }
+]
