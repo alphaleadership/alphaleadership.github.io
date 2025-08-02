@@ -13020,5 +13020,26 @@
       "Fasciste"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401307781310582875",
+    "timestamp": 1754168210104,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Et t’es parti avant le délire haute table et tout"
+    ],
+    "attachments": []
   }
 ]
