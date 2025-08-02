@@ -651,5 +651,26 @@
       "la seule chose qu'on conserve c'est la présidence de l'assemblée , c'est vraiment honnête quand même"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401300443338113168",
+    "timestamp": 1754166460595,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Lemu a même dit qu'il était d'accord"
+    ],
+    "attachments": []
   }
 ]
