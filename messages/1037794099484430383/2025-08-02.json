@@ -11844,5 +11844,26 @@
       "C’est surtout le nombre de personnes investis qui compte"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401305267093766194",
+    "timestamp": 1754167610668,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Il a fait des affiches pour le FLN ?"
+    ],
+    "attachments": []
   }
 ]
