@@ -5641,5 +5641,26 @@
       "Et prévoir des médicaments ainsi qu'une ambulance."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401166068436828271",
+    "timestamp": 1754134423122,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Ça n’a pas de sens de dire « premier »"
+    ],
+    "attachments": []
   }
 ]
