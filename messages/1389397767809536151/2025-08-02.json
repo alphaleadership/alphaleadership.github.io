@@ -819,5 +819,26 @@
       "Et il faudrait même travail, industrie et justice"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401304015911784559",
+    "timestamp": 1754167312363,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Surement que j'oublie des choses"
+    ],
+    "attachments": []
   }
 ]
