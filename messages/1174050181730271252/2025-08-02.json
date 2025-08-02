@@ -147,5 +147,26 @@
       "dégage des affaires de l'Assemblée"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401301053936242850",
+    "timestamp": 1754166606173,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1174050181730271252",
+      "name": "「🧳」𝐀𝐧𝐧𝐨𝐧𝐜𝐞𝐬-𝐃𝐮-𝐆𝐨𝐮𝐯𝐞𝐫𝐧𝐞𝐦𝐞𝐧𝐭"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "MES CHERS AMIS !\nBeaucoup d'entre vous remettent en question ma légitimité.\nJ'annonce donc l'organisation d'un vote de confiance envers moi, qui aura lieu prochainement. \nMerci"
+    ],
+    "attachments": []
   }
 ]
