@@ -4780,5 +4780,26 @@
       "Ça nous arrange en vrai."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401159568167407627",
+    "timestamp": 1754132873337,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "A savoir : s’opposer à vous."
+    ],
+    "attachments": []
   }
 ]
