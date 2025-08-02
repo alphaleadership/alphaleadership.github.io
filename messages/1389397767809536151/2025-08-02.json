@@ -1535,5 +1535,26 @@
       "donc la proposition présentée ci dessus est bien plus intéressante que la première , nous en avons discuter en interne"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401306354790039593",
+    "timestamp": 1754167869995,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "maintenant, j'aimerais que les discussions continuent là où elles ont continué, c'est à dire en dm"
+    ],
+    "attachments": []
   }
 ]
