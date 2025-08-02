@@ -313,5 +313,26 @@
       "J'ai adhéré chez LR"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401160495830007900",
+    "timestamp": 1754133094509,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Et je suis dans le mouvement d'une candidate pour la présidence des jeunes LR , et un autre le MRR qui inclue des jeunes LR , de droite , ceux de Lisnard ect"
+    ],
+    "attachments": []
   }
 ]
