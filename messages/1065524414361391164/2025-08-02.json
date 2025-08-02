@@ -271,5 +271,26 @@
       "Et tu sais où tu vas t'engager en politique ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401160301130551328",
+    "timestamp": 1754133048089,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Je crois que tu peux déjà adhérer à un parti politique avec l'autorisation parentale."
+    ],
+    "attachments": []
   }
 ]
