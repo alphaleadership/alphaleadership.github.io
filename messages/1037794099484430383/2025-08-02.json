@@ -5179,5 +5179,26 @@
       "Si vous vous étiez alliés ça aurait été 8/8/1"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401162041137303604",
+    "timestamp": 1754133462939,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Qu'on arrive à égalité en nb de député non je pense pas. \n\nÇa aurait été plus un 10/8/1 en vrai, car une alliance PPL-PLDL aurait entraîné plus de ralliement au sein du serv je pense."
+    ],
+    "attachments": []
   }
 ]
