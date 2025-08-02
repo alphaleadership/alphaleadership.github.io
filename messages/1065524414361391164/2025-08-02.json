@@ -208,5 +208,26 @@
       "Effectivement maintenant tout le monde est au courant..."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401160089691492363",
+    "timestamp": 1754132997678,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Si j'ai bien compris, en fait tu es lycéen en Rhône-Alpes, c'est ça ?"
+    ],
+    "attachments": []
   }
 ]
