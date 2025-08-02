@@ -40,5 +40,26 @@
       "Je vais lancer des discussions avec la présidence. Si il refuse, censure immédiate"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401283454515019786",
+    "timestamp": 1754162410144,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "On va se mette en accord avec le PPL"
+    ],
+    "attachments": []
   }
 ]
