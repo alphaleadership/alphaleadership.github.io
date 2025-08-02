@@ -1197,5 +1197,26 @@
       "T'es quoi toi"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401308702664822796",
+    "timestamp": 1754168429772,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "JC"
+    ],
+    "attachments": []
   }
 ]
