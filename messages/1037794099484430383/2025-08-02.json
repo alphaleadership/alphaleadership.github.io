@@ -7113,5 +7113,26 @@
       "Ça tombe bien je suis Haut Savoyard"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401251461995958424",
+    "timestamp": 1754154782533,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Mensonge"
+    ],
+    "attachments": []
   }
 ]
