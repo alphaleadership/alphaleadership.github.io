@@ -7640,5 +7640,26 @@
       "https://tenor.com/view/thelionking-lionking-mufasa-longlivetheking-scar-gif-20263689"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401274904472588289",
+    "timestamp": 1754160371655,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "J'ai pas accès au serv du gouvernement alors qu'y en a un apparemment invitez moi"
+    ],
+    "attachments": []
   }
 ]
