@@ -1115,5 +1115,26 @@
       "Parce que votre  candidat est d'accord"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401305465974952049",
+    "timestamp": 1754167658085,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Et gardez ce que vous convoitiez déjà"
+    ],
+    "attachments": []
   }
 ]
