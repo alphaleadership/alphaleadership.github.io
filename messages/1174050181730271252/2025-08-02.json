@@ -19,5 +19,26 @@
       "Je mettrai à jour la version définitive"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401225814695088241",
+    "timestamp": 1754148667740,
+    "author": {
+      "id": "532953963591499809",
+      "username": "ochalo",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1174050181730271252",
+      "name": "「🧳」𝐀𝐧𝐧𝐨𝐧𝐜𝐞𝐬-𝐃𝐮-𝐆𝐨𝐮𝐯𝐞𝐫𝐧𝐞𝐦𝐞𝐧𝐭"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "<@702155370054811658> devient ministre de l'économie\n<@606880443966423235> devient ministre des affaires étrangères"
+    ],
+    "attachments": []
   }
 ]
