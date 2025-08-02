@@ -4505,5 +4505,26 @@
       "Du moment où vous sous-estimez vos adversaires, c'est là que vous vous tirer une balle dans le pied."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401158066212442265",
+    "timestamp": 1754132515243,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "C’est le jeu, aussi, c’est tout"
+    ],
+    "attachments": []
   }
 ]
