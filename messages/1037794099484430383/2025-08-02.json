@@ -9164,5 +9164,26 @@
       "On le sautera, le PLDL n'aurait pas intérêt."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401300489508884542",
+    "timestamp": 1754166471603,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Si tu parles de celle du FLN, on était le premier parti niveau campagne. \nLes stats le disent."
+    ],
+    "attachments": []
   }
 ]
