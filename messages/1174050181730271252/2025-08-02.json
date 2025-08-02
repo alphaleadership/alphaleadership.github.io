@@ -126,5 +126,26 @@
       "et qui es tu pour le demander ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401284384916770897",
+    "timestamp": 1754162631969,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1174050181730271252",
+      "name": "「🧳」𝐀𝐧𝐧𝐨𝐧𝐜𝐞𝐬-𝐃𝐮-𝐆𝐨𝐮𝐯𝐞𝐫𝐧𝐞𝐦𝐞𝐧𝐭"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "dégage des affaires de l'Assemblée"
+    ],
+    "attachments": []
   }
 ]
