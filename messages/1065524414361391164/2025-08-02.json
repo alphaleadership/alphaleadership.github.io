@@ -1638,5 +1638,26 @@
       "Vous faites pas de critiques du pouvoir."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401312562557227039",
+    "timestamp": 1754169350042,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Juste une critique de la société basée sur la lutte des classes."
+    ],
+    "attachments": []
   }
 ]
