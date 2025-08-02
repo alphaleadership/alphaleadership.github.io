@@ -11758,5 +11758,26 @@
       "Aux présidentielles juv à fait plus d’affiches pour le FLN que sh par exemple"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401305094158553189",
+    "timestamp": 1754167569437,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "<@879384380152381460> je te redonne de la mauvaise humeur un peu"
+    ],
+    "attachments": []
   }
 ]
