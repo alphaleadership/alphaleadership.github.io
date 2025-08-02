@@ -12432,5 +12432,26 @@
       "Les communistes aussi"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401306472784203786",
+    "timestamp": 1754167898127,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Non vu que Rg a volé ma réponse (faut que je fasse le mec aigri dcp)"
+    ],
+    "attachments": []
   }
 ]
