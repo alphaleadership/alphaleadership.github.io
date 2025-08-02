@@ -6000,5 +6000,26 @@
       "Et vous venez de perdre celle-là."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401168050920755342",
+    "timestamp": 1754134895783,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Après la logique aurait été d'accepter une alliance avec nous, le score aurait été fracassant je pense, + de 70% quand-même"
+    ],
+    "attachments": []
   }
 ]
