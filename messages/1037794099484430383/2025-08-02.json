@@ -4694,5 +4694,26 @@
       "Ptet."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401159360490508348",
+    "timestamp": 1754132823823,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Encore une fois, suffit d'user des pions, et des cartes pour être dans la meilleure des situations. Le PLDL n'est ptet pas gagnant, mais je préfère être pivot-isolé pour un temps, que d'être dans votre situation, tôt ou tard ça finira par céder. Ça peut arriver à l'instant, demain, ou dans 3-4 semaines..."
+    ],
+    "attachments": []
   }
 ]
