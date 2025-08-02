@@ -9143,5 +9143,26 @@
       "Hmmm...oe oe. Mais, moi je dis qu'il fasse pas \"le tocard\" et joue le vote de confiance."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401300472047992994",
+    "timestamp": 1754166467440,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "On le sautera, le PLDL n'aurait pas intérêt."
+    ],
+    "attachments": []
   }
 ]
