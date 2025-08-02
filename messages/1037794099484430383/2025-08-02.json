@@ -5979,5 +5979,26 @@
       "La seule solution pour faire ça, c’est d’être Max, ce que tu n’es pas."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401168019618664579",
+    "timestamp": 1754134888320,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Et vous venez de perdre celle-là."
+    ],
+    "attachments": []
   }
 ]
