@@ -544,5 +544,26 @@
       "nous dcp *"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401299393893761115",
+    "timestamp": 1754166210388,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "alors on va devoir refuser"
+    ],
+    "attachments": []
   }
 ]
