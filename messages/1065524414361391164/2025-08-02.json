@@ -502,5 +502,26 @@
       "et j'ai un stage avec Virginie Duby-Muller à la toussaint"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401162135152758884",
+    "timestamp": 1754133485354,
+    "author": {
+      "id": "702155370054811658",
+      "username": "tollerion",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "A donc tu as fait ton stage de troisième avec elle."
+    ],
+    "attachments": []
   }
 ]
