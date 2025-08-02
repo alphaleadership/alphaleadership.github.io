@@ -5053,5 +5053,26 @@
       "Ce serait serré, mais je pense qu'on finirait par l'emporter, et les communistes, aurait qu'un député finalement."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401161435446509569",
+    "timestamp": 1754133318531,
+    "author": {
+      "id": "1070602999329722368",
+      "username": "majusculep.pavulam.3436",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Après 8+1 c'est plus que 8"
+    ],
+    "attachments": []
   }
 ]
