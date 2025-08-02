@@ -4274,5 +4274,26 @@
       "Vous êtes resté trop sur le on dépasse pas les 20%..."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401137180914487349",
+    "timestamp": 1754127535800,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Et les présidentielles."
+    ],
+    "attachments": []
   }
 ]
