@@ -376,5 +376,26 @@
       ""
     ],
     "attachments": []
+  },
+  {
+    "id": "1401296020893335663",
+    "timestamp": 1754165406202,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "la nouvelle proposition"
+    ],
+    "attachments": []
   }
 ]
