@@ -880,5 +880,26 @@
       "Essonne"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401244635883507874",
+    "timestamp": 1754153155061,
+    "author": {
+      "id": "901403507519791105",
+      "username": "butterlord2243",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Je suis de région parisienne"
+    ],
+    "attachments": []
   }
 ]
