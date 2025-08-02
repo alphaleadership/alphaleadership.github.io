@@ -10741,5 +10741,26 @@
       "Je me demande si dans les allôbroges y'a pas savoisien enft"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401303086076662052",
+    "timestamp": 1754167090673,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Même « au savoyard » selon son point de vue"
+    ],
+    "attachments": []
   }
 ]
