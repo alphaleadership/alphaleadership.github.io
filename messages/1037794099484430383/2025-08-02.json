@@ -7365,5 +7365,26 @@
       "Non je déconne"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401258530404827156",
+    "timestamp": 1754156467773,
+    "author": {
+      "id": "901403507519791105",
+      "username": "butterlord2243",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Les intentions de la charte de 1814 sont pas mauvaises pourtant, elles sont stables et équilibrées entre héritages révolutionnaire et monarchiste"
+    ],
+    "attachments": []
   }
 ]
