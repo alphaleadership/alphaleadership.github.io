@@ -278,5 +278,26 @@
       "Les gauchistes modérés ne veulent pas des communistes et les communistes extrémistes ne veulent pas des socialistes modérés"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401302777803837481",
+    "timestamp": 1754167017175,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "J’aime les gens qui ont un vocabulaire pauvre. Ne vous sentez surtout pas visés."
+    ],
+    "attachments": []
   }
 ]
