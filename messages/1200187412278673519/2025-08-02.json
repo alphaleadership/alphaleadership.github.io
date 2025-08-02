@@ -320,5 +320,26 @@
       "Vote de confiance doit avoir lieu.\nL’assemblé votée par le peuple choisira s’ils acceptent ou non ce gouvernement. \nLa démocratie l’emportera,\nSi la démocratie souhaite ce gouvernement,  alors sa légitimité n’est plus à remettre en cause.\nLe contraire est également valable."
     ],
     "attachments": []
+  },
+  {
+    "id": "1401303139482734656",
+    "timestamp": 1754167103406,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Il a lieu."
+    ],
+    "attachments": []
   }
 ]
