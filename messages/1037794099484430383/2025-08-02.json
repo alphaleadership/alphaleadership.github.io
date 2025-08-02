@@ -6021,5 +6021,26 @@
       "Après la logique aurait été d'accepter une alliance avec nous, le score aurait été fracassant je pense, + de 70% quand-même"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401168131241807952",
+    "timestamp": 1754134914933,
+    "author": {
+      "id": "879384380152381460",
+      "username": "rg1873",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "A priori, oui."
+    ],
+    "attachments": []
   }
 ]
