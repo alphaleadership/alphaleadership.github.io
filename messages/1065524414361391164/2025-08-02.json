@@ -691,5 +691,26 @@
       "Connaît pas du tout"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401191318331457577",
+    "timestamp": 1754140443166,
+    "author": {
+      "id": "901403507519791105",
+      "username": "butterlord2243",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "La candidate c’est Brisson ?"
+    ],
+    "attachments": []
   }
 ]
