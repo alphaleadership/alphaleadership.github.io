@@ -8595,5 +8595,26 @@
       "Ils ont compris qu’on l’avait kidnappé"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401298675631915059",
+    "timestamp": 1754166039141,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "En mode le gouvernement va tout faire pour éviter une censure, donc les projets de lois vont tarder."
+    ],
+    "attachments": []
   }
 ]
