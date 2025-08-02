@@ -775,5 +775,26 @@
       "y'a vous deux , moi , et qui d'autre en député  pour les rôles"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401299491126120510",
+    "timestamp": 1754166233570,
+    "author": {
+      "id": "1167594421555036262",
+      "username": "shiro._.akami",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "valadier"
+    ],
+    "attachments": []
   }
 ]
