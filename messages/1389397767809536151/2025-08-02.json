@@ -1367,5 +1367,26 @@
       "il n'y a pas eu de négociations à partir de ces propositions"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401305885988491455",
+    "timestamp": 1754167758224,
+    "author": {
+      "id": "1107661267562410067",
+      "username": "albiforever",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Oh !"
+    ],
+    "attachments": []
   }
 ]
