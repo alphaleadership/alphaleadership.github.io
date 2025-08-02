@@ -5473,5 +5473,26 @@
       "El déni"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401162643250614273",
+    "timestamp": 1754133606494,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Si il y a plus de 100 votants, l'alliance de droite est vainqueur."
+    ],
+    "attachments": []
   }
 ]
