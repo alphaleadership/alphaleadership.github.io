@@ -8742,5 +8742,26 @@
       "Vous voulez un vote de confiance ?"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401298976858312926",
+    "timestamp": 1754166110959,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Ochalo est convaincu pour durer, il va le faire pour un temps, mais moi je le dit clairement s'il veut durer, qu'il accepte mes demandes en mp ou qu'il passe au moins par un vote de confiance."
+    ],
+    "attachments": []
   }
 ]
