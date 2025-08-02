@@ -12726,5 +12726,26 @@
       "Pourquoi il sort ça lui !? <:risitasperruque:1066713649793728613>"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401307090340806839",
+    "timestamp": 1754168045364,
+    "author": {
+      "id": "714869958097502299",
+      "username": "max.x.",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Bah quand on dit sans élections"
+    ],
+    "attachments": []
   }
 ]
