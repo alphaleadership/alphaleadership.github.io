@@ -40,5 +40,26 @@
       "!!collect"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401148183945416836",
+    "timestamp": 1754130159127,
+    "author": {
+      "id": "1092020440387563540",
+      "username": "yosco.zeltinskiyy",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1278876216564121643",
+      "name": "「💸」𝐒𝐚𝐥𝐚𝐢𝐫𝐞𝐬"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "!!collect"
+    ],
+    "attachments": []
   }
 ]
