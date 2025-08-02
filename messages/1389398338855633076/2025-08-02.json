@@ -313,5 +313,26 @@
       "oui enfin ils ont l'air de s'allier avec un bloc plutôt qu'un autre"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401286993492705381",
+    "timestamp": 1754163253902,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389398338855633076",
+      "name": "⚖️parti-libéral-démocrate-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "pas de soucis , mais ce qu'on a dit en dm ça te va ?"
+    ],
+    "attachments": []
   }
 ]
