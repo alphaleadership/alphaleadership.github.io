@@ -10531,5 +10531,26 @@
       "Tu gagnes le vote de confiance tu veux dire"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401302759357284474",
+    "timestamp": 1754167012777,
+    "author": {
+      "id": "1212431738219925568",
+      "username": "jiv_28",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Oui c’est vrai, je pense qu’ils sont pas tous au courant"
+    ],
+    "attachments": []
   }
 ]
