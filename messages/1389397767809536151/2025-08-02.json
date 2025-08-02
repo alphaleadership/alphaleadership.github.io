@@ -124,5 +124,26 @@
       "Moi j'veux bien"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401226918581244017",
+    "timestamp": 1754148930927,
+    "author": {
+      "id": "789567269327208459",
+      "username": "ebrithilar_elda",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1389397767809536151",
+      "name": "🏛️parti-du-peuple-listenbourgeois"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Avis ? <@&1389240427189899366>"
+    ],
+    "attachments": []
   }
 ]
