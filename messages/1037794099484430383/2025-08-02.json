@@ -5410,5 +5410,26 @@
       "Depuis 400 milliards d’années environ"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401162393748246668",
+    "timestamp": 1754133547008,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1037794099484430383",
+      "name": "「🪧」𝐇𝐑𝐏"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Ok bah le SV perds 2 député dans cette config."
+    ],
+    "attachments": []
   }
 ]
