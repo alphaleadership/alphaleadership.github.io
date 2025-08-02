@@ -68,5 +68,26 @@
         "contentType": "image/jpeg"
       }
     ]
+  },
+  {
+    "id": "1401275341758140466",
+    "timestamp": 1754160475912,
+    "author": {
+      "id": "892092107714592839",
+      "username": "phenyklendae",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1200187412278673519",
+      "name": "「🐦」𝐓𝐰𝐢𝐭𝐭𝐞𝐫"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "Ce Premier Ministre est ridicule, sait il tenir un gouvernement sans qu'il y est des démissions, il nomme des opposants, ne voulant faire aucune concession avec lui, autant en faisant ces actions il ne respecte pas les convictions d'une grande partie des électeurs du SV."
+    ],
+    "attachments": []
   }
 ]
