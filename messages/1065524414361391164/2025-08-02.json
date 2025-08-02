@@ -481,5 +481,26 @@
       "Ouais c'est pour ça que c'est un mouvement de jeune"
     ],
     "attachments": []
+  },
+  {
+    "id": "1401162026876801076",
+    "timestamp": 1754133459539,
+    "author": {
+      "id": "568775627058970635",
+      "username": "kelyan_966",
+      "discriminator": "0"
+    },
+    "channel": {
+      "id": "1065524414361391164",
+      "name": "「🗨」𝐂hat-staff"
+    },
+    "guild": {
+      "id": "1037794097894797442",
+      "name": "Le Parlement du Listenbourg"
+    },
+    "content": [
+      "et j'ai un stage avec Virginie Duby-Muller à la toussaint"
+    ],
+    "attachments": []
   }
 ]
